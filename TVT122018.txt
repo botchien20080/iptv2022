@@ -412,7 +412,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="QUỐC TẾ", FOX MOVIES HD
 https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:-1 group-title="QUỐC TẾ", AXN
+#EXTINF:-1 group-title="QUỐC  TẾ", AXN
 http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 group-title="QUỐC TẾ", WBTV HD
