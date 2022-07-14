@@ -65,7 +65,7 @@ http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/chunks.m3u
 #EXTINF:-1 group-title="HTVC",Thuần Việt HD
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
 
-#EXTINF:-1 group-title="HTVC",Phụ Nữ
+#EXTINF:-1 tvg-logo="http://admin.beta2.mytvnet.vn/upload/channel/9.png" group-title="HTV/HTVC" ,HTVC Phụ Nữ
 http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-PHUNU-HD-1080p/chunks.m3u8
 
 #EXTINF:-1 group-title="HTVC",HTVC Phim HD
