@@ -1,5 +1,4 @@
-#EXTM3U IPTVQ  (http://gg.gg/iptv2022.)
-
+#EXTM3U IPTVQ  (http://gg.gg/iptv2022)
 #EXTINF:-1 group-title="VTV",VTV 1 (^_^)
 https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="VTV",VTV 2
