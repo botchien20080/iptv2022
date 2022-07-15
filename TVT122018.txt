@@ -1075,84 +1075,17 @@ https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/Journey_to
 
 
 
-#EXTM3U 24/7
+#EXTM3U VTCCAB
 
-#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://s1.upanh.pro/2019/07/24/88.png",Kênh Siêu Anh Hùng Marvel
-https://ws.flv.nimo.tv/live/su1599512427626re02097385902583d031254e5d6f0c321_mid.flv?needwm=0
-
-#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://s1.upanh.pro/2019/07/24/gg.png",HOẠT HÌNH ÂU MỸ MỚI NHẤT
-https://ws.flv.nimo.tv/live/su1599512427556r803c8e196969c0688aecbfcf32d604b3_mid.flv?needwm=0
-
-#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://i.imgur.com/ohmaTuo.png",PHIM CHIẾU RẠP MỚI NHẤT 2019
-https://ws.flv.nimo.tv/live/su1599512427609rec4c3a4d7d72c1946e09a8d6ca157304_mid.flv?needwm=0
-
-#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://i.imgur.com/pMB6UXI.png",Series Thám tử Sherlock cực đỉnh
-https://ws.flv.nimo.tv/live/su1599512427580r629d80fdaf8413c8e7083d1d0cd5fbf5_mid.flv?needwm=0
-
-#EXTINF:-1 group-title="Kênh 24/7" https://i.imgur.com/ZppPfAj.png",Game Of Thrones Mùa 8
-https://ws.flv.nimo.tv/live/su1599512427620r670c57364b4f552f7266695a41fa8534_mid.flv?needwm=0
-
-#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://media.tintucvietnam.vn/uploads/medias/2019/02/28/1024x1024/1-bb-baaacCxq7l.jpg?v=1551342055572",Kênh Live Ỷ Thiên Đồ Long Ký 2019
-https://tx.flv.nimo.tv/live/su1599512427617rae4f86972500969d24b8d4bc88ee9b7a.flv
-
-#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="http://static2.yan.vn/YanNews/2167221/201809/charmaine-0936a8ef.jpg" ,TVB Bằng Chứng Thép
-https://tx.flv.nimo.tv/live/su1599512427610r8f4bae585a61a8b25d6229cd32f9a6c4_high.flv
-
-#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://i.ytimg.com/vi/a2K5jxRXl6Q/maxresdefault.jpg",Kênh Live Liên Quân Mobile(Chỉ phát khi có giải đấu)
-https://vtbd.vn.data.garena.tv/hls/213154/954367_mid.m3u8
-
-#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://znews-photo.zadn.vn/w660/Uploaded/kbd_pilk/2019_03_29/phong_than_dien_nghia10.jpg",Phong Thần Dương Tiễn
-https://ws.flv.nimo.tv/live/su1599512427621r54f92d0bb9657a84d3211bbe20bedf26_high.flv?needwm=0
-
-#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/10/Simply_K-Pop.png",Live Concert Kpop
-https://ws.flv.nimo.tv/live/su1599512427593r490f93a8a500f7d39cbb5ae9d8ea735b_high.flv
-
-#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://i.ytimg.com/vi/ps1Yi7LBjuI/maxresdefault.jpg" ,Kênh Hài Hoài Linh
-https://tx.flv.nimo.tv/live/su1599512427606rf2ef4b5c1579eb96360153fb0d1fcfc1_high.flv
-
-#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="http://image.pmcontent.com/film/6676/poster.medium.jpg",Anime Captain Tsubasa 2019
-https://ws.flv.nimo.tv/live/su1599512427630rb9a94d5f0fa60cec1044ec85fbd76da7_veryhigh.flv?needwm=0
-
-#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/International_Pokémon_logo.svg/1200px-International_Pokémon_logo.svg.png",Anime Pokemon
-https://ws.flv.nimo.tv/live/su1599512427622r073f84b376d62cfd26fbcf13e7ef5fd0_low.flv?needwm=0
-
-#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://ae01.alicdn.com/kf/HTB1XGJwSpXXXXbfapXXq6xXFXXXq/Kawaii-Pikachu-tatoo-qu-t-ng-cho-tr-em-cosplay-Tr-Ch-i-Phim-Ho-t.jpg",Pokemon Phim Lẻ
-https://ws.flv.nimo.tv/live/su1599512427623r60a0f49359ab5ea619b0e2a4e448d9af.flv?needwm=0
-
-#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://nhanvan.vn/images/detailed/13/shin-cau-be-but-chi-tap-50.jpg" ,Cậu bé bút chì
-https://ws.flv.nimo.tv/live/su1599512427627rdc1b400f8200f7923309b6186cc142f8_high.flv?needwm=0
-
-
-#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="http://timvieclamsieuthi.com/upload/images/nhan-vien-kiem-soat-ve-rap-chieu-phim-galyxy.png" ,Tuyển Tập Phim Thành Long
-https://tx.flv.nimo.tv/live/su1599512427581r351d39e6132e1ade9cee4e1779e30b7b_high.flv
-
-#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://icon2.kisspng.com/20180711/ygt/kisspng-doraemon-animation-suneo-honekawa-doraemon-doraemon-5b459e0eb06629.0177401515312891027225.jpg" ,Doremon Tiếng Việt Tập Ngắn
-https://ws.flv.nimo.tv/live/su1599512427553r467469e0bc83c5de73f4d151682fb530_high.flv
-
-#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqT2SRa5h1YoiD9xCaMKzIMXTQShDQcIWqyrFNB8WEENcBXEav" ,Doremon Tiếng Việt Tập Dài
-https://al.flv.nimo.tv/live/su1599512427578r00bac8d56488f6ca2d6915fb95ab88e8_high.flv
-
-#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://images2-focus-opensocial.googleusercontent.com/gadgets/proxy?container=focus&gadget=a&no_expand=1&refresh=604800&url=https://static.itvl.net/images/5a79708a95971.jpg" ,Hoạt Hình Hunter X Hunter
-https://ws.flv.nimo.tv/live/su1599512427562r89436fcde4d4278fc2e87c8600d465e1_high.flv
-
-#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://static-cdn.jtvnw.net/ttv-boxart/DragonBall Z: Dokkan Battle.jpg" ,Dragon Ball Z Tiếng Việt
-https://ws.flv.nimo.tv/live/su1599512427558r464ce7577525c715f04419095ae6abeb_high.flv
-
-#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="http://media.db.choi.vn/editorimages/2017/07/27/6846_dragon_ball_z_hd_wallpapers.jpg" ,Dragon Ball Kai Tiếng Việt
-https://ws.flv.nimo.tv/live/su1599512427624rcac6e81bb9277a4fe258348bcfa63c82_high.flv?needwm=0
-
-#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://i.pinimg.com/originals/ce/95/f0/ce95f0e163eb9f0c44262192d3de6f74.png" ,Conan Tiếng Việt
-https://al.flv.nimo.tv/live/su1599512427561r32f86ec41ff353df5fd649beb68e6388_mid.flv
-
-#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://banner2.kisspng.com/20180626/jlw/kisspng-jimmy-kudo-kaito-kuroba-rachel-moore-case-closed-d-meitantei-conan-5b325842a72d81.8143452915300260506848.jpg" ,Conan Tiếng Việt 2
-https://al.flv.nimo.tv/live/su1599512427577r176a7daa9302ccecdda91e18ea9be73e_high.flv
-
-#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="http://pluspng.com/img-png/png-pictures-of-tom-and-jerry-download-tom-and-jerry-png-images-transparent-gallery-advertisement-612.png" ,Tom & Jerry Tiếng Việt
-https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv
-
-#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="https://banner2.kisspng.com/20180601/gaw/kisspng-ben-10-omniverse-2-desktop-wallpaper-motu-patlu-5b11a3b0f03602.9094127815278826729839.jpg" ,Ben 10 Tiếng Việt
-https://al.flv.nimo.tv/live/su1599512427586rdd11b1329d2f0e25fc16c80a467f573c_high.flv
-
-#EXTINF:-1 group-title="Kênh 24/7" tvg-logo="http://img.giaoduc.net.vn/w801/Uploaded/2019/rutmne/2012_04_14/an_di_hien2_giaoduc.net.vn.jpg" ,Tân Ỷ Thiên Đồ Long Ký 2008
-https://tx.flv.nimo.tv/live/su1599512427551r650a1b5abfd7679be6e85c9e976c4e92_high.flv
-
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab1hd" tvg-logo="https://static.megavie.live/media/vie-giaitri.jpg", VTVCab1 HD - Vie Giải Trí
+http://203.162.123.178:8080/vtvcab1/index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab2hd" tvg-logo="https://static.megavie.live/media/phimviet.jpg", VTVCab2 - Phim Việt
+http://203.162.123.178:8080/vtvcab2/index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab3hd" tvg-logo="https://static.megavie.live/media/vtvcab3hd.jpg", VTVcab3 HD - Thể Thao TV 
+http://203.162.123.178:8080/vtvcab3/index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab5hd" tvg-logo="https://static.megavie.live/media/vtvcab5hd.jpg", VTVCab5 - E Channel
+http://203.162.123.178:8080/vtvcab5/index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab10hd" tvg-logo="https://static.megavie.live/media/vie-dramas.jpg", VTVcab 10 HD
+http://203.162.123.178:8080/vtvcab7/index.m3u8
+#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab16hd" tvg-logo="https://static.megavie.live/media/vtvcab16hd.jpg", VTVcab16 HD - Bóng Đá TV 
+http://203.162.123.178:8080/vtvcab16/index.m3u8
