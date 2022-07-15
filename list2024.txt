@@ -1,192 +1,210 @@
-#EXTM3U Vĩnh Long
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/zGkJr7g/Eleven-Sports1logobyvovanloc.png", Eleven Sports 1 HD
+http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
 
-#EXTINF:-1 group-title="Vĩnh Long", Vĩnh Long 1
-#https://livecdn.fptplay.net/hda/vinhlong1_hls.smil/chunklist.m3u8
-https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/KjzD1QG/Eleven-Sports2logobyvovanloc.png", Eleven Sports 2 HD
+http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 group-title="Vĩnh Long", Vĩnh Long 2
-#https://livecdn.fptplay.net/sdb/vinhlong2_2000.stream/chunklist.m3u8
-https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/tQGgKwG/skynetsportslogobyvovanloc.png", SkyNet Sports
+http://4digital.ddns.net:11223/ts/0
 
-#EXTINF:-1 group-title="Vĩnh Long", Vĩnh Long 3
-#https://livecdn.fptplay.net/hda/vinhlong3_2000.stream/chunklist.m3u8
-https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/MsS4vJQ.png", Sky Racing 1
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
 
-#EXTINF:-1 group-title="Vĩnh Long", Vĩnh Long 4
-#https://livecdn.fptplay.net/hda/vinhlong4hd_2000.stream/chunklist.m3u8
-https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.imgur.com/2xjPuAH.png", Sky Racing 2
+https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 
-#EXTINF:-1 group-title="QUỐC TẾ", BOXMOVIE
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 group-title="QUỐC TẾ", BOX HIT
-http://gg.gg/cc-hits|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 group-title="QUỐC TẾ", BOX MUSIC
-https://e4.endpoint.cdn.sctvonline.vn/hls/boxmusic/sd2/index.m3u8|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 group-title="QUỐC TẾ", HBO HD
-https://vips-livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", HBO SD
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HBO/index.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", RED HBO 
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", CINEMAX
-http://vips-livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8?bycoca
-
-#EXTINF:-1 group-title="QUỐC TẾ", WOMAN
-https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 group-title="QUỐC TẾ", HOLLYWOOD
-https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
-
-#EXTINF:-1 group-title="QUỐC TẾ", FLIX HD
-https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", STAR MOVIEAS
-http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", STAR WORLD
-http://221.120.204.4/star-world-LOCKLE/index.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ",FIML
-https://stream.y5.hu/stream/stream_filmp/hls1/stream.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", BOXING
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", OneGold
-http://162.250.201.58:6211/pk/ONEGOLF/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", VIVA
-http://195.9.195.19:8001/hls2/vivarussia/index.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", HD Music TV
-http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/mono.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", Channel V HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CHANNELV-HD-1080p/playlist.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", MTV
-https://live2cdn.todayplus.com.vn/hdb/smil:mtv.smil/chunklist_w805842546_b1296000.m3u8
-#http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", Kpop
-https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1226297415.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", FTV
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", FOX HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOX-HD-1080p/playlist.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", FOX LIFE HD
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", FOX FAMILY MOVIES HD
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXFAMILY-HD-1080p/playlist.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", FOX MOVIES HD
-https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", AXN
-http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", WBTV HD
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/WANNERTV-SD-720p/chunks.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", PARAMOUNT-HD
-http://htv-drm-live-cdn.fptplay.net:80/CDN-FPT02/PARAMOUNT-HD-720p/chunks.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", CINEMA WORK
-https://vips-livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", KIX HD
-https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
-#https://livecdn.fptplay.net/hda/kixhd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", BOOMERANG
-https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", Disney Channel
-http://quangvinh997.duckdns.org:8889/udp/225.1.2.158:30120
-
-#EXTINF:-1 group-title="QUỐC TẾ", Disney Junior
-http://quangvinh997.duckdns.org:8889/udp/225.1.1.233:30120
-
-#EXTINF:-1 group-title="QUỐC TẾ", Cartoon Network
-https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", Cartoon Network HD
-https://livecdn.fptplay.net/qnetlive/cartoonnetworkhd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", Baby First HD
-https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", Cbeebies
-https://livecdn.fptplay.net/hda3/cbeebies_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", ANIMAX
-https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", REDBOX
-http://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", FTV
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", natgeohd
-https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", discovery
-https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", animal planet
-https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", Outdoor
-https://livecdn.fptplay.net/world/outdoorfhd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", Asian Food Network HD s1
-https://livecdn.fptplay.net/world/afchd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", Asian Food Network HD s2
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/AFC-HD-1080p/playlist.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", Da Vinci HD s1
-https://livecdn.fptplay.net/world/davincihd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", Da Vinci HD s2
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/DAVINCY-HD-1080p/playlist.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", Fox Life
-https://livecdn.fptplay.net/foxlive/foxlifehd_hls.smil/chunklist_b2500000.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", TV5
-https://tv5infohls-i.akamaihd.net/hls/live/631613/tv5infohls/v3plusinfo247hls_1_1.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", France 24
-http://f24hls-i.akamaihd.net/hls/live/221147/F24_EN_HI_HLS/master.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", Sky Thoroughbred Central
-https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
-
-#EXTINF:-1 group-title="QUỐC TẾ", Racing.com
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/F77TW4v/RACING-COMlogobyvovanloc.png", Racing.com
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 
-#EXTINF:-1 group-title="QUỐC TẾ", Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/DC7rXy1/truesportlogobyvovanloc.png", TRUE SPORT 1 HD (Chọn HW)👉
+http://77.83.117.60:8888/02_2sporthd1_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="QUỐC TẾ", FOX SPORT HD
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPRORT-HD-1080p/playlist.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/PN9MFdk/truesport2logobyvovanloc.png", TRUE SPORT 2 HD (Chọn HW)👉
+http://77.83.117.60:8888/02_2sporthd2_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="QUỐC TẾ", FOX SPORT 2 HD
-https://vips-livecdn.fptplay.net/hda3/foxsports2_vhls.smil/chunklist_b5000000.m3u
-#https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/zhThMvF/truesport3logobyvovanloc.png", TRUE SPORT 3 HD (Chọn HW)👉
+http://77.83.117.60:8888/02_2sporthd3_720p/chunklist.m3u8
 
-#EXTINF:-1 group-title="QUỐC TẾ", FOX SPORT 3 HD
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/FOXSPORTS3-HD-1080p/playlist.m3u8
-#https://livecdn.fptplay.net/qnetlive/foxsports3_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/vDCGXVH/truesports4logobyvovanloc.png", TRUE SPORT 4 HD (Chọn HW)👉
+http://77.83.117.60:8888/02_2sporthd4_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/BgtNtY3/truesports5logobyvovabloc.png", TRUE SPORT 5 (Chọn HW)👉
+http://77.83.117.60:8888/02_sport5_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/Lz1SSDP/truesports6logobyvovanloc.png", TRUE SPORT 6 (Chọn HW)👉
+http://77.83.117.60:8888/02_sport6_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="KÊNH THỂ THAO" tvg-logo="https://i.ibb.co/n0SQnqp/truesports7logobyvovanloc.png", TRUE SPORT 7 (Chọn HW)👉
+http://77.83.117.60:8888/02_sport7_480p/chunklist.m3u8
+
+#EXTM3U Địa Phương
+
+#EXTINF:-1 group-title="Địa Phương",STV1
+http://115.78.3.164:8135/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", STV2
+http://115.78.3.164:8135/hls-live/livepkgr/_definst_/liveevent/livestreamstv2.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Quốc phòng Việt Nam HD
+https://livecdn.fptplay.net/sdc/quocphongvnhd_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Quốc hội Việt Nam HD
+http://113.164.225.140:1935/live/quochoitvlive.stream_720p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Nhân Dân HD
+https://vips-livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
+#https://video.nhandan.techlab.vn/live/nhandan720/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", ANTV HD
+http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Vietnam Journey HD
+http://cdn.vovtv.mediatech.vn/vovlive/tv1live.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Hà Nội 1 HD
+http://cdn.hntv.mediatech.vn/hntvlive/tv1live.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Hà Nội 2 HD
+http://cdn.hntv.mediatech.vn/hntvlive/tv2live.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Hải Phòng HD
+https://livecdn.fptplay.net/sdc/haiphong_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Nghệ An HD
+https://live.truyenhinhnghean.vn/hls/na1/index.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Đà Nẵng 1 HD
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Đà Nẵng 2 HD
+http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Khánh Hòa HD
+http://210.245.20.94/hls/ktv1.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Ninh Thuận HD
+https://livecdn.fptplay.net/sda/ninhthuan_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Gia Lai HD
+http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Bình Định
+https://livecdn.fptplay.net/sda/binhdinh_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Tây Ninh HD
+http://202.43.109.142:1935/ttv11/tntv/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Phú Yên HD
+https://livecdn.fptplay.net/sda/phuyen_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Đồng Nai 1 HD
+https://livecdn.fptplay.net/sda/dongnai1_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Đồng Nai 2 HD
+https://livecdn.fptplay.net/sda/dongnai2_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Vũng Tàu HD
+http://113.163.216.23:1935/live/tv2.stream_480p/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Đồng Tháp HD
+http://202.43.109.142:1935/THDT/thdttv/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Đồng Tháp 2 HD
+http://202.43.109.145:1935/thdt2/thdt2/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Tiền Giang HD
+http://thtg.vn:8001/stream_hi.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Long An
+http://113.161.229.13/hls-live/livepkgr/_definst_/liveevent/tv.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Bến Tre
+https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist_b2500000.m3u8
+#http://113.163.94.245/hls-live/livepkgr/_definst_/liveevent/thbt.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", An Giang
+https://livecdn.fptplay.net/sda/angiang_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Cần Thơ HD
+https://mekongpassion.com/live/tv/chunklist_w1950678277.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Hậu Giang HD
+https://livecdn.fptplay.net/sda/haugiang_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Trà Vinh HD
+https://livecdn.fptplay.net/sdc/travinh_1000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Bạc Liêu HD
+https://livecdn.fptplay.net/sdc/baclieu_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Cà Mau HD
+http://tv.ctvcamau.vn/live/tv/tv.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Ninh Bình HD
+https://nbtv.vncdn.vn/nbtvlive/tv1live.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Bắc Kạn
+http://113.160.162.131:8080/tv/bk.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Điện Biên HD
+https://livecdn.fptplay.net/sdc/dienbien_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Hòa Bình
+http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Lạng Sơn HD
+http://cdn.lstv.mediatech.vn/lstvlive/tv1live.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Bắc Giang HD
+http://cdn.bgtv.mediatech.vn/bgtvlive/tv1live.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Tuyên Quang HD
+https://live.tuyenquangtv.vn/hls/ttv.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Lào Cai
+http://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Yên Bái
+https://yenbaitv.org.vn/hls/livestream.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Quảng Ninh 1
+https://livecdn.fptplay.net/sda/quangninh1_hls.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Phú Thọ
+https://livecdn.fptplay.net/sda/phutho_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Thanh Hóa HD
+https://livecdn.fptplay.net/sda/thanhhoa_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Hà Tĩnh HD
+http://hatinhtv.vn:82/hls/httv.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Quảng Nam HD
+http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Quảng Ngãi
+https://livecdn.fptplay.net/sda/quangngai_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Huế
+https://livecdn.fptplay.net/sdc/hue_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Đà Nẵng 1
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Đà Nẵng 2
+http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Khánh Hòa
+http://210.245.20.94/hls/ktv1.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Ninh Thuận
+https://livecdn.fptplay.net/sda/ninhthuan_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Bình Thuận
+http://202.43.109.142:1935/thbttv/bttv/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Gia Lai
+http://113.161.25.3:8134/hls/gialaitv/gialaitv.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Bình Định
+https://livecdn.fptplay.net/sda/binhdinh_2000.stream/chunklist.m3u8
