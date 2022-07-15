@@ -1,3 +1,3 @@
-#EXTINF:0 group-title="PHIM HD" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",No Time to Die
+#EXTINF:0 group-title="PHIM HD" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",PHIM
 #EXTVLCOPT:http-user-agent="CoocaaTV"
-http://51.81.208.167/cine/A.fall.from.grace.2020.1080p-dual-lat-cinecalidad.is.mp4
+http://167.114.174.132:9092/movies/Batch239/222.2017.720p.BluRay.x264-%5BYTS.AG%5D.mp4
