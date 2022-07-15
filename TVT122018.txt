@@ -944,3 +944,150 @@ https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/9A6LZ7z.jpg",VOA TV
 #EXTVLCOPT:http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64)"
 https://voa-ingest.akamaized.net/hls/live/2033866/tvmc01/VOA-TVMC01_1080/playlist.m3u8
+
+
+
+
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",Đội Bóng Thiếu Lâm
+#EXTVLCOPT:http-user-agent="CoocaaTV
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210707/shaolin_soccer_2001_1080p_china_sub_v2/311875906ff82a295b0d54a8c7840e50.smil/chunklist_b4628000.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",Đỗ Thánh 1
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vod01-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210719/all_for_the_winner_1990_hongkong_lt_v3/7c9d8f81ab56a795bfbaf293b37756fb.smil/chunklist_b4628000.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",Đỗ Thánh 2
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210719/godofgamblersii_1991_hongkong_lt_v2/1156fe0cf49a22375ba875baa13d8bac.smil/chunklist_b2828000.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",Thần Bài 1
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20160304/28547462115ea15ff7d13ec167c9d52d.smil/chunklist_b1998000.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",Thần Bài 2
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/Temp/ThanBai_02fix.mp4/chunklist.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",Thần Bài 3
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/Temp/ThanBai_03fix.mp4/chunklist.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",Vua Phá Hoại
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/ingest/loveondelivery-1994-hongkong-tm/LoveOnDelivery_1994_HongKong_TM_vip.smil/chunklist_b996000_sleng.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",Bách Biến Tinh Quân
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vod05-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/60milionsdollarMan/60MillionsDollarMan_1995_HongKong.mp4/chunklist.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",Vận May Mỉm Cười
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/whenfortunesmiles/When_Fortune_Smiles_1990.mp4/chunklist.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",Chuyên Gia Bắt Ma
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/ChauTinhTri/OutOfTheDark_1995_HongKong.mp4/chunklist.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",Anh Hùng Của Tôi
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/myhero/My_Hero_1990.mp4/chunklist.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",Tân Tinh Võ Môn 1
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#https://vod07-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/ChauTinhTri/Tan_Tinh_Vo_Mon_I.mp4/chunklist.m3u8
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210714/fist_of_fury_1991_hongkong_lt_v4/0823c2748d886f40b220f7ebfb977fb4.smil/chunklist_b4628000.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",Tân Tinh Võ Môn 2
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/fistofury/Fist_Of_Fury_2_1991.mp4/chunklist.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",Tế Công
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/madmonk/The_Mad_Monk_1993.mp4/chunklist.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",Chuyên Gia Xảo Quyệt
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#https://vod05-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/trickybrain/Tricky_Brains_1991.mp4/chunklist.m3u8
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210304/tricky-brains-1991-hongkong-uslt-v2/c57c82bb237c5d388b4057928c07489d.smil/chunklist_b2828000.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",Trạng Nguyên Tô Khất Nhi
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/ChauTinhTri/KingOfBeggars_1992_HongKong.mp4/chunklist.m3u8
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20170331/04ae898a459924ea4494d1293c8cea31.smil/chunklist_b1998000.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",Trường Học Uy Long 1
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/fightbacktoschool/Fight_Back_To_School_1_1991.mp4/chunklist.m3u8
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20170103/df7058800224db0c6818cc0dd292a7e5.smil/chunklist_b1998000.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",Trường Học Uy Long 2
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#https://vod05-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/fightbacktoschool/Fight_Back_To_School_2_1992.mp4/chunklist.m3u8
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210713/fightbacktoschool_2_1991_hongkong_v3/0e081a274f7af33b3dd34051acaa18d8.smil/chunklist_b2828000.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",Trường Học Uy Long 3
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#https://vod07-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/fightbacktoschool/Fight_Back_To_School_3_1993.mp4/chunklist.m3u8
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210713/fightbacktoschool_3_1993_hongkong_v2/c1d6c04a1097544452ba8d65ed4f20c7.smil/chunklist_b2828000.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",Tân Lộc Đỉnh Ký 1
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/ChauTinhTri/SeriesRoyalTramp_P01.mp4/chunklist.m3u8
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20181101/royal-tramp-1992-hongkong-lt/ada39ef7f89b0906775e42741960c26b.smil/chunklist_b3992000.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",Tân Lộc Đỉnh Ký 2
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/ChauTinhTri/SeriesRoyalTramp_P02.mp4/chunklist.m3u8
+
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",Đại Nội Mật Thám
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/ForbiddenCityCop/ForbiddenCityCop_1996_HongKong.mp4/chunklist.m3u8
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210711/forbidden_city_cop_1996_hongkong_sub_v2/095345df326ee92f01f426b746bb2574.smil/chunklist_b2828000.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",Cảnh Sát Gặp Ma
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4:mp4/OTT/TV_Series/LookOutOfficer_1990_HongKong/LookOutOfficer_1990_HongKong.mp4/chunklist.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",Bịp Vương Thượng Hải
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#https://vod04-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/trickymaster/The_Tricky_Master_1999.mp4/chunklist.m3u8
+https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20190612/the_tricky_master_1999_hongkong_lt/2360b89d7bed8c13dbd63b3e09d0310c.smil/chunklist_b3992000.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",Long Tại Thiên Nhai
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vod07-cdn.fptplay.net/ovod/_definst_/mp4:mp4/OTT/TV_Series/DragonFight_1989_China/DragonFight_1989_China.mp4/chunklist.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",Tuyệt Đỉnh Kung Fu
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/480p/movie/kungfuHustle/KungFuHustle.mp4/chunklist.m3u8
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210116/kung_fu_hustle_2004_china_sub_1080p/0075c42aa1f79c257f05b62df780a6e5.smil/chunklist_b4628000.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",Tình Yêu Và Cuộc Đời
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/loveislove/Love_Is_Love_1990_720p.mp4/chunklist.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",Trà Lầu Long Phụng
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vod04-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/lungfung/Lung_Fung_Restaurant_1990.mp4/chunklist.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",Tình Thánh
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/magnificentscoundrels/The_Magnificent_Scoundrels_1991.mp4/chunklist.m3u8
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20190612/the-magnificent-scoundrels-1991-hongkong-lt-v2/439d58ad4f994cce635ffedd6fdfdce0.smil/chunklist_b3992000.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",Hoàng Tử Bánh Trứng
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#https://vod05-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20160304/28547462115ea15ff7d13ec167c9d52d.smil/chunklist_b1998000.m3u8
+https://vod02-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20170721/theluckyguy-1998-hongkong-v2/326db59388d07e2de1684c233240b199.smil/chunklist_b1998000.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",Đường Bá Hổ - Điểm Thu Hương
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#https://vod04-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/flirtingscholar/Flirting_Scholar_1993.mp4/chunklist.m3u8
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20201008/flirtingscholar_1993_hongkong_lt_v4/1994b923bcbba20cbda70ce34542f76b.smil/chunklist_b4628000.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",Quan Xẩm Lốc Cốc
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/HailTheJudge/HailTheJudge_1994_HongKong.mp4/chunklist.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",Quốc Sản 007
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#https://vod04-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/frombeijing/From_Beijing_With_Love_1994.mp4/chunklist.m3u8
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20161111/bbc8486da8ffa0ff0c3f81102a6aab87.smil/chunklist_b1998000.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",Thực Thần
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#https://vod07-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/ChauTinhTri/TheGodOfCookery.mp4/chunklist.m3u8
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20170103/fbe80b96b161514f044699e7fed830bb.smil/chunklist_b1998000.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",Trạng Sư Xảo Quyệt
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/ChauTinhTri/LawyerLawyer_1997_HongKong.mp4/chunklist.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",Siêu Khuyển Thần Thông
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vod02-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/ChauTinhTri/LawyerLawyer_1997_HongKong.mp4/chunklist.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",Vua Hài Kịch
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+#https://vod03-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/kingofcomedy/The_King_Of_Comedy_1999.mp4/chunklist.m3u8
+https://vod07-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20201011/kingofcomedy_1999_hongkong_lt_v3/4f009b660af0129234d27c188362c5b8.smil/chunklist_b4628000.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",Vỏ Quýt Dày Có Móng Tay Nhọn
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vod06-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/tvseries/ChauTinhTri/CurryAndPepper_1990_HongKong.mp4/chunklist.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",Gia Hữu Hỷ Sự
+#EXTVLCOPT:http-user-agent="CoocaaTV
+https://vod06-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20170105/5382364557f8cd6edbfbc09617351761.smil/chunklist_b2992000.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",Đại Thoại Tây Du 1
+#EXTVLCOPT:http-user-agent="CoocaaTV
+https://vod04-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20200921/a_chinese_odyssey_part_i_china_1994_lt/753b58b2554f12a0b6aefea052162683.smil/chunklist_b2828000.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",Đại Thoại Tây Du 2
+#EXTVLCOPT:http-user-agent="CoocaaTV
+https://vod03-cdn.fptplay.net/ovod/_definst_/smil:mp4/encoded/20210303/a_chinese_odyssey_part_ii_china_1994_lt_v5/6f2311394f4c2e1bc7eab69605bf68f6.smil/chunklist_b2828000.m3u8
+#EXTINF:0 group-title="CHÂU TINH TRÌ" tvg-logo="https://sohanews.sohacdn.com/thumb_w/1000/160588918557773824/2021/2/25/photo1614238997347-16142389975851835734556.jpg",Tây Du Ký Ngoại Truyện
+#EXTVLCOPT:http-user-agent="CoocaaTV"
+https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/Journey_to_the_West_Conquering_the_Demons_2013_1080p_BluRay_DTS_HD_MA_7_1_x264_HDWinG_1280_TM/Journey_to_the_West_Conquering_the_Demons_2013_1080p_BluRay_DTS_HD_MA_7_1_x264_HDWinG_1280_TM.mp4/chunklist.m3u8
