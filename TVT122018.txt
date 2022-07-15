@@ -36,21 +36,12 @@ http://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTM3U HTV
 
-
-#EXTINF:-1 group-title="HTVC" tvg-id="htv3" tvg-logo="https://static.megavie.live/media/htv3.png",HTV3
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV3-SD-480p/playlist.m3u8
-
-#EXTINF:-1 group-title="HTVC" tvg-id="htvkey" tvg-logo="https://static.megavie.live/media/htvkey.jpg",HTV Key
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV4-SD-480p/playlist.m3u8
-
 #EXTINF:-1 group-title="HTVC" tvg-id="htv7hd" tvg-logo="https://static.megavie.live/media/htv7hd.jpg",HTV7 HD
 https://livecdn.fptplay.net/hda1/htv7hd_2000.stream/playlist.m3u8
 #EXTINF:-1 group-title="HTVC" tvg-id="htv9hd" tvg-logo="https://static.megavie.live/media/htv9hd.jpg",HTV9 HD
 https://livecdn.fptplay.net/hda1/htv9hd_2000.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="HTVC" tvg-id="htvthethaohd" tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/07/16/200515-111250-HTVTT.png", HTV Thể Thao HD
-https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTV-THETHAO-HD-1080p/playlist.m3u8
-#EXTINF:-1 group-title="HTVC" tvg-id="htvcthuanviethd" tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/879824-ThuanVietHD1.png", HTVC Thuần Việt HD
+
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIETHD-HD-1080p/playlist.m3u8
 #EXTINF:-1 group-title="HTVC" tvg-id="htvcthuanviet" tvg-logo="http://img.hplus.com.vn/wxh/banner/2018/06/05/850471-ThuanViet.png", HTVC Thuần Việt
 https://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-THUANVIET-HD-1080p/playlist.m3u8
