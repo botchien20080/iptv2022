@@ -1,0 +1,2 @@
+#EXTINF:-1 tvg-id="htvcfbnc" group-title="HTV" tvg-logo="https://i.imgur.com/cP7NV5h.png",HTVC - FBNC HD
+udp://@225.1.1.182:30120
