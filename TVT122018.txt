@@ -1,4 +1,4 @@
-#EXTM3U IPTVQ  (http://gg.gg/iptv2022)
+#EXTM3U IPTVQ2022  (http://gg.gg/iptv2022)
 #EXTM3U vtv-------------------------------------------------------------------------
 
 #EXTINF:-1 group-title="VTV",VTV 1
