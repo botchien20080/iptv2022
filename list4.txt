@@ -1,0 +1,57 @@
+#EXTM3U
+# List kênh SCTV HD miễn phí, chia sẻ rộng rãi cho mọi người cùng xem, lan tỏa thông điệp iu thương
+
+#EXTINF:-1,SCTV1 HD
+http://cvmvietnix.duckdns.org:9981/stream/channelid/748344184
+#EXTINF:-1,SCTV2 HD
+http://cvmvietnix.duckdns.org:9981/stream/channelid/1224500082
+#EXTINF:-1,SCTV3 HD
+http://cvmvietnix.duckdns.org:9981/stream/channelid/1296784601
+#EXTINF:-1,SCTV4 HD
+http://cvmvietnix.duckdns.org:9981/stream/channelid/1883119343
+#EXTINF:-1,SCTV5 HD
+http://cvmvietnix.duckdns.org:9981/stream/channelid/1442469360
+#EXTINF:-1, SCTV6 HD
+http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1,SCTV7 HD
+http://cvmvietnix.duckdns.org:9981/stream/channelid/1004544243
+#EXTINF:-1,SCTV8 HD
+http://cvmvietnix.duckdns.org:9981/stream/channelid/2067158282
+#EXTINF:-1,SCTV9 HD
+http://cvmvietnix.duckdns.org:9981/stream/channelid/2002831165
+#EXTINF:-1,SCTV11 HD
+http://cvmvietnix.duckdns.org:9981/stream/channelid/1171186958
+#EXTINF:-1,SCTV12 HD
+http://cvmvietnix.duckdns.org:9981/stream/channelid/490758491
+#EXTINF:-1,SCTV13 HD
+http://cvmvietnix.duckdns.org:9981/stream/channelid/119862317
+#EXTINF:-1,SCTV14 HD
+http://cvmvietnix.duckdns.org:9981/stream/channelid/61597613
+#EXTINF:-1,SCTV15 HD
+http://cvmvietnix.duckdns.org:9981/stream/channelid/828048628
+#EXTINF:-1,SCTV16 HD
+http://cvmvietnix.duckdns.org:9981/stream/channelid/706163550
+#EXTINF:-1,SCTV17 HD
+http://cvmvietnix.duckdns.org:9981/stream/channelid/56826019
+#EXTINF:-1,SCTV18 HD
+http://cvmvietnix.duckdns.org:9981/stream/channelid/2063634434
+#EXTINF:-1,SCTV19 HD
+http://cvmvietnix.duckdns.org:9981/stream/channelid/440533156
+#EXTINF:-1,SCTV20 HD
+http://cvmvietnix.duckdns.org:9981/stream/channelid/2113920654
+#EXTINF:-1,SCTV21 HD
+http://cvmvietnix.duckdns.org:9981/stream/channelid/2123850645
+#EXTINF:-1,SCTV22 HD
+http://cvmvietnix.duckdns.org:9981/stream/channelid/1887557632
+#EXTINF:-1,SCTV Phim Tổng Hợp HD
+http://cvmvietnix.duckdns.org:9981/stream/channelid/462273894
+#EXTINF:-1,Box Movies 1 HD
+http://cvmvietnix.duckdns.org:9981/stream/channelid/449424622
+#EXTINF:-1,DR Fit HD
+http://cvmvietnix.duckdns.org:9981/stream/channelid/2036303921
+#EXTINF:-1,Hollywood Classics HD
+http://cvmvietnix.duckdns.org:9981/stream/channelid/1545926293
+#EXTINF:-1,Planet Earth HD
+http://cvmvietnix.duckdns.org:9981/stream/channelid/1832863996
+#EXTINF:-1,Woman HD
+http://cvmvietnix.duckdns.org:9981/stream/channelid/165771827
