@@ -1032,15 +1032,4 @@ https://vod01-cdn.fptplay.net/ovod/_definst_/mp4:mp4/fplay/720p/movie/Journey_to
 
 #EXTM3U VTCCAB
 
-#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab1hd" tvg-logo="https://static.megavie.live/media/vie-giaitri.jpg", VTVCab1 HD - Vie Giải Trí
-http://203.162.123.178:8080/vtvcab1/index.m3u8
-#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab2hd" tvg-logo="https://static.megavie.live/media/phimviet.jpg", VTVCab2 - Phim Việt
-http://203.162.123.178:8080/vtvcab2/index.m3u8
-#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab3hd" tvg-logo="https://static.megavie.live/media/vtvcab3hd.jpg", VTVcab3 HD - Thể Thao TV 
-http://203.162.123.178:8080/vtvcab3/index.m3u8
-#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab5hd" tvg-logo="https://static.megavie.live/media/vtvcab5hd.jpg", VTVCab5 - E Channel
-http://203.162.123.178:8080/vtvcab5/index.m3u8
-#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab10hd" tvg-logo="https://static.megavie.live/media/vie-dramas.jpg", VTVcab 10 HD
-http://203.162.123.178:8080/vtvcab7/index.m3u8
-#EXTINF:-1 group-title="VTVCab" tvg-id="vtvcab16hd" tvg-logo="https://static.megavie.live/media/vtvcab16hd.jpg", VTVcab16 HD - Bóng Đá TV 
-http://203.162.123.178:8080/vtvcab16/index.m3u8
+
