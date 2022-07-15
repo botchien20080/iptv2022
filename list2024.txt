@@ -1,13 +1,8 @@
-#EXTM3U ==========================================UPDATE 08-09-2020 ========================
-
-#EXTINF:-1 group-title="K+", K+1 HD
-https://live.kplus.vn/tv/k1hd_hls.smil/hd/1080p/chunklist.m3u8
-
-#EXTINF:-1 group-title="K+", K+PM HD
-https://live.kplus.vn/tv/kpmhd_hls.smil/hd/1080p/chunklist.m3u8
-
-#EXTINF:-1 group-title="K+", K+ NS HD
-https://live.kplus.vn/tv/knshd_hls.smil/hd/1080p/chunklist.m3u8
-
-#EXTINF:-1 group-title="K+", K+ PC HD
-https://live.kplus.vn/tv/kpchd_hls.smil/hd/1080p/chunklist.m3u8
+#EXTINF:130 tvg-logo="https://imgur.com/faJYAfY.png" group-title="K+ (DRM)",K+ Nhịp sống HD
+http://14.178.153.143:9876/rtp/232.84.1.123:10320
+#EXTINF:131 tvg-logo="https://imgur.com/YrA0U7L.png" group-title="K+ (DRM)",K+ Phái mạnh HD
+http://14.178.153.143:9876/rtp/232.84.1.125:10326
+#EXTINF:140 tvg-logo="https://imgur.com/ReSrquY.png" group-title="K+ (DRM)",K+ Phong cách HD
+http://14.178.153.143:9876/rtp/232.84.1.176:10374
+#EXTINF:129 tvg-logo="https://imgur.com/LMknH43.png" group-title="K+ (DRM)",K+1 HD
+http://14.178.153.143:9876/rtp/232.84.1.122:10314
