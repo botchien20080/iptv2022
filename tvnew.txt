@@ -1,0 +1,450 @@
+#EXTM3U HTV
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/Large_htv1.png" group-title="HTVC",HTV1 HD
+http://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b1200000.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE1OTg0OTU5ODgsICJyZXNvdXJjZV9pZCI6ICJodHYxX2hscyIsICJwYXJ0bmVyX2lkIjogIjU3MTNiZThjMDdlNDJlZDRiOTE2Mzg4ZSIsICJ0b2tlbiI6ICI2ZjQyMGZlNjZhMGNjODRiMTYyNGIxNTIyMzcwMmI4NiIsICJ2YWxpZF9taW51dGVzIjogMTU5ODU4MjM4OCwgInJtaXAiOiAiMTE4LjY5LjM3LjEyIn0=
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WQHqOFj.jpg" group-title="HTVC",HTV2 HD
+https://livecdn.fptplay.net/hda1/htv2hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/HTV3-2016.png" group-title="HTVC",HTV3 HD
+http://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE1OTg0OTYxNzUsICJyZXNvdXJjZV9pZCI6ICJodHYzXzIwMDAiLCAicGFydG5lcl9pZCI6ICI1NzEzYmU4YzA3ZTQyZWQ0YjkxNjM4OGUiLCAidG9rZW4iOiAiMDQ0NWU4MGNjNWZhMTRlMmRmM2UxZDYyNjU0NGYzN2YiLCAidmFsaWRfbWludXRlcyI6IDE1OTg1ODI1NzUsICJybWlwIjogIjExOC42OS4zNy4xMiJ9
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Logo_HTV_Key.png" group-title="HTVC",HTV4 HD
+http://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b1200000.m3u8?token=eyJzZXJ2ZXJfdGltZSI6IDE1OTg0OTYyOTcsICJyZXNvdXJjZV9pZCI6ICJodHY0X2hscyIsICJwYXJ0bmVyX2lkIjogIjU3MTNiZThjMDdlNDJlZDRiOTE2Mzg4ZSIsICJ0b2tlbiI6ICI4MzhjNWZlNjFhOWZhMmNiNjZjNmEyMWEzMWFiMGI5YSIsICJ2YWxpZF9taW51dGVzIjogMTU5ODU4MjY5NywgInJtaXAiOiAiMTE4LjY5LjM3LjEyIn0=
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/4/4c/HTV7Logomoi.png" group-title="HTVC",HTV7 HD
+https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
+#https://vips-livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lVkFTxB.jpg" group-title="HTVC",HTV9 HD
+https://vips-livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/8/8c/HTVC_thuanviet.png" group-title="HTVC",HTVC Thuần Việt SD
+https://vips-livecdn.fptplay.net/hda3/htvcthuanviet_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-logo="http://img.hplus.com.vn/728x409/banner/2018/06/05/879824-ThuanVietHD1.png" group-title="HTVC",HTVC Thuần Việt HD
+https://vips-livecdn.fptplay.net/hda1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HRNmZdU.png" group-title="HTVC",HTVC Phụ Nữ
+https://vips-livecdn.fptplay.net/hda3/htvcphunu_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pAqskAN.png" group-title="HTVC",HTVC Phim HD
+https://api.vthanhtivii.xyz/v1/getlink/vieon/htvc-phim
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PgOD7m8.png" group-title="HTVC",HTVC Ca Nhạc
+https://api.vthanhtivii.xyz/v1/getlink/vieon/htvc-ca-nhac
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qpMwhg7.jpg" group-title="HTVC",HTVC Du Lịch & Cuộc Sống
+https://vips-livecdn.fptplay.net/hda3/htvcdulich_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aFjXzhar.jpg" group-title="HTVC",HTVC Gia Ðình HD
+https://vips-livecdn.fptplay.net/hda3/htvcgiadinh_vhls.smil/chunklist_b5000000.m3u8
+#http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/HTVC-GIADINH-HD-1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gXSu7YV.jpg" group-title="HTVC",HTVC Thể Thao HD
+https://livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 tvg-logo="http://htvc.vn/uploads/cache/thumbnail/2019-05-22/6833055-9051942-plus.png" group-title="HTVC",HTVC Plus
+https://vips-livecdn.fptplay.net/hda3/htvcplus_vhls.smil/chunklist_b5000000.m3u8
+
+
+#EXTM3U Vĩnh Long
+#EXTINF:-1 group-title="Vĩnh Long", Vĩnh Long 1
+#https://livecdn.fptplay.net/hda/vinhlong1_hls.smil/chunklist.m3u8
+https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="Vĩnh Long", Vĩnh Long 2
+#https://livecdn.fptplay.net/sdb/vinhlong2_2000.stream/chunklist.m3u8
+https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="Vĩnh Long", Vĩnh Long 3
+#https://livecdn.fptplay.net/hda/vinhlong3_2000.stream/chunklist.m3u8
+https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="Vĩnh Long", Vĩnh Long 4
+#https://livecdn.fptplay.net/hda/vinhlong4hd_2000.stream/chunklist.m3u8
+https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
+
+#EXTM3U VTV
+
+#EXTINF:-1 group-title="VTV",VTV 1
+https://vips-livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="VTV",VTV 2
+https://vips-livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="VTV",VTV 3
+https://vips-livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="VTV",VTV 4
+https://vips-livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="VTV",VTV 5
+https://vips-livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="VTV",VTV 5 TAY NAM BO HD
+https://tbientv.xyz/channel/vtvgo/?id=7
+
+#EXTINF:-1 group-title="VTV",VTV 5 TAY NGUYEN HD
+https://tbientv.xyz/channel/vtvgo/?id=163
+
+#EXTINF:-1 group-title="VTV",VTV 6
+https://vips-livecdn.fptplay.net/hda1/vtv6hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="VTV",VTV 7
+https://vips-livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="VTV",VTV 8
+https://vips-livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="VTV",VTV 9
+https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="VTV", VOV TV
+https://mediatech.vncdn.vn/vovlive/tv1live.m3u8
+
+
+#EXTM3U VTC
+
+#EXTINF:-1 group-title="VTC", VTC 1
+https://livecdn.fptplay.net/sdb/vtc1_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VTC", VTC 2
+https://livecdn.fptplay.net/sdb/vtc2_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VTC", VTC 3
+https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTC", VTC 4
+https://livecdn.fptplay.net/sdc/vtc4_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTC", VTC 5
+https://livecdn.fptplay.net/sdb/vtc5_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VTC", VTC 6
+https://livecdn.fptplay.net/sdb/vtc6_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VTC", VTC 7
+https://livecdn.fptplay.net/sdb/todaytv_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VTC", VTC 8
+https://livecdn.fptplay.net/sdb/vtc8_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VTC", VTC 9
+https://livecdn.fptplay.net/sdb/vtc9_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VTC", VTC 10
+https://livecdn.fptplay.net/sdb/vtc10_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VTC", VTC 11
+https://livecdn.fptplay.net/sdb/vtc11_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VTC", VTC 12
+https://livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="VTC", VTC 13
+https://livecdn.fptplay.net/sdc/vtc13_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VTC", VTC 14
+https://livecdn.fptplay.net/sdc/vtc14_2000.stream/chunklist.m3u8
+#EXTINF:-1 group-title="VTC", VTC 16
+https://livecdn.fptplay.net/sdb/vtc16_2000.stream/chunklist.m3u8
+
+#EXTM3U PHIM TRUYEN
+
+#EXTINF:-1 group-title="PHIM TRUYEN", SCTV16
+https://stream.sugustv.tk:443/play/UZempbPiyguKHF9wUvfPuJRTM2VDU-6OCDGP6vJMfLM/m3u8
+
+#EXTINF:-1 group-title="PHIM TRUYEN", HBO HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="PHIM TRUYEN", Cinemax HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hda1/cinemax_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="PHIM TRUYEN", Box Hits
+http://live.television4you.xyz/boxhits/mpegts
+
+#EXTINF:-1 group-title="PHIM TRUYEN", Box Movie 1 SCTV
+#EXTVLCOPT:http-referer=http://sctvonline.vn
+https://e4.endpoint.cdn.sctvonline.vn/hls/boxmovie1/sd2/index.m3u8|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 group-title="PHIM TRUYEN", Hollywood Classics SCTV
+#EXTVLCOPT:http-referer=http://sctvonline.vn
+https://e4.endpoint.cdn.sctvonline.vn/hls/hollywood/sd2/index.m3u8|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 group-title="NUOC NGOAI", Dr.Fit SCTV
+#EXTVLCOPT:http-referer=http://sctvonline.vn
+https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 group-title="NUOC NGOAI", Happy Kids SCTV
+#EXTVLCOPT:http-referer=http://sctvonline.vn
+https://e4.endpoint.cdn.sctvonline.vn/hls/happykid/sd2/index.m3u8|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 group-title="NUOC NGOAI", Planet Earth SCTV
+#EXTVLCOPT:http-referer=http://sctvonline.vn
+https://e4.endpoint.cdn.sctvonline.vn/hls/planetearth/sd2/index.m3u8|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 group-title="PHIM TRUYEN", Woman SCTV
+#EXTVLCOPT:http-referer=http://sctvonline.vn
+https://e4.endpoint.cdn.sctvonline.vn/hls/woman/sd2/index.m3u8|Referer=http://sctvonline.vn/
+
+
+#EXTINF:-1 group-title="NUOC NGOAI", Animax HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="NUOC NGOAI", Boomerang HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="NUOC NGOAI", Cartoon Network HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
+
+
+#EXTINF:-1 group-title="NUOC NGOAI", Dreamworks
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="NUOC NGOAI", BabyFirst
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
+
+
+#EXTINF:-1 group-title="NUOC NGOAI", BabyTV HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="NUOC NGOAI", Da Vinci HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hda2/davincihd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="NUOC NGOAI", BBC World News
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/sdb/bbcnew_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="NUOC NGOAI", CNBC
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/sdb/cnbc_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="NUOC NGOAI", CNN
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
+
+#EXTINF:-1 group-title="NUOC NGOAI", Asian Food Network
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hda1/afchd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="NUOC NGOAI", Animal Planet
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="NUOC NGOAI", Discovery
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="NUOC NGOAI", Discovery Asia
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="NUOC NGOAI", National Geographic HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="NUOC NGOAI", Nat Geo Wild HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="NUOC NGOAI", Outdoor Channel HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="NUOC NGOAI", AXN HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="NUOC NGOAI", Rock Entertainment
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="NUOC NGOAI", Rock Extreme
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hda1/blueantext_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="NUOC NGOAI", MTV
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/sdb/mtv_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="NUOC NGOAI", CinemaWorld
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="NUOC NGOAI", Fashion TV
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="NUOC NGOAI", KIX HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="NUOC NGOAI", TLC
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="NUOC NGOAI", Warner TV
+#EXTVLCOPT:http-user-agent=VThanhTivi
+http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
+
+
+#EXTM3U THE THAO
+
+#EXTINF:-1 group-title="THE THAO", K+CINE HD
+http://14.225.205.64:5080/LiveApp/streams/kpluscine.m3u8
+#EXTINF:-1 group-title="THE THAO",K+LIFE HD
+http://14.225.205.64:5080/LiveApp/streams/kpluslife.m3u8
+#EXTINF:-1 group-title="THE THAO", K+SPORT1 HD
+http://14.225.205.64:5080/LiveApp/streams/kplus1.m3u8
+#EXTINF:-1 group-title="THE THAO", K+SPORT2 HD
+http://plus.vthanhtivi.pw/hohuugiang/19052000/35.m3u8
+#EXTINF:-1 group-title="THE THAO", Kids HD
+http://14.225.205.64:5080/LiveApp/streams/kpluskids.m3u8
+#EXTINF:-1 group-title="THE THAO", ON SPORT1 HD
+https://lshstream.xyz/hls/allsportsicu01/index.m3u8
+#EXTINF:-1 group-title="THE THAO", ON SPORT2 HD
+http://14.225.205.64:5080/LiveApp/streams/kplus2.m3u8
+#EXTINF:-1 group-title="THE THAO", ON SPORT3 HD FPT
+https://lshstream.xyz/hls/allsportsicu03/index.m3u8
+#EXTINF:-1 group-title="THE THAO", ON SPORT4 HD
+https://lshstream.xyz/hls/allsportsicu02/index.m3u8
+#EXTINF:-1 group-title="THE THAO", ON SPORT6 HD
+https://tshift.fptplay.net/dvr/vtv6hd_1500.stream/chunks_dvr_range-0-0.m3u8
+#EXTINF:-1 group-title="THE THAO", THETHAO GOLF HD
+https://livevlive.vtvcab.vn/hls/THETHAO_GOLF_HD_CL/sc-gaFEAQ/v1_index.m3u8
+#EXTINF:-1 group-title="THE THAO", ON Golf ENG
+https://tinyurl.com/khichtvONGolfENG
+#EXTINF:-1 group-title="THE THAO", TRÊN VFF
+https://tinyurl.com/khichtvonvff
+#EXTINF:-1 group-title="THE THAO",Golf News
+https://livevlive.vtvcab.vn/hls/OS_BONGDA_HD/sc-gaFEEA/m20_index.m3u8
+#EXTINF:-1 group-title="THE THAO", ON Golf Eng
+https://89-46-98-17.servers.tips:5052/live2/kGE8naX84sLqCxP6-OrCwQ/231624/1664183160/2076625.m3u8
+#EXTINF:-1 group-title="THE THAO", ON SPORT + TV
+https://hqth.me/khichtivivtvcabvnhlsONVFFTV
+#EXTINF:-1 group-title="THE THAO", TRÊN Bóng chuyền
+https://livevlive.vtvcab.vn/hls/HAY_TV_1924/sc-gaFEAA/m20_index.m3u8
+
+
+
+#EXTM3U DIA PHUONG
+#EXTINF:-1 group-title="DIA PHUONG", TH An Giang
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/sda/angiang_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG", Bến Tre
+https://1012163901.vnns.net/bentre.adm.480p.tms/playlist.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG", Cần Thơ
+https://tv.tchgroup.vn/live/tv_web/chunklist.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG", Bình Dương 1
+https://api.television4you.xyz/v1/getlink/mytv_web/402/hd
+
+#EXTINF:-1 group-title="DIA PHUONG", Bình Dương 2
+https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG", Bình Dương 3
+https://livecdn.fptplay.net/sdb/binhduong3_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG",  Bình Dương 4
+https://livecdn.fptplay.net/hda2/btv4hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG", Bình Dương 5
+https://e2.endpoint.cdn.sctvonline.vn/secure/btv5/sd1/index.m3u8?md5=TIpsMcUws2BxLKEZ3ItG9g&expires=2556118740|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 group-title="DIA PHUONG", Bình Dương 6
+https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG", Bình Dương 9
+https://livecdn.fptplay.net/sdc/btv9_2000.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG", Bình Dương 11
+https://livecdn.fptplay.net/sda/btv11_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG", Bình Phước
+http://103.90.220.236/bptvlive/tv1live.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG", TH Bình Phước
+http://103.90.220.236/bptvlive/tv2live.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG", Bình Thuận
+http://202.43.109.144:1935/thbttv/bttv/chunklist.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG", Đà Nẵng 1
+http://drtdnglive.e49a7c38.cdnviet.com/livedrt1/chunklist.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG", Đà Nẵng 2
+http://drtdnglive.e49a7c38.cdnviet.com/livestream/chunklist.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG", Đắk Lắk
+http://103.90.220.236/drtlive/tv1live-transmux.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG", Đắk Nông
+https://16371213858134.vnns.net/daknong_abr/vtc130121/daknong-1080p/chunks.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG", TH Đồng Nai 1
+http://118.107.85.4:1935/live/smil:DNTV1.smil/chunklist_w1922635327_b1384000.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG", TH Đồng Nai 2
+http://118.107.85.4:1935/live/smil:DNTV2.smil/chunklist_w318694496_b584000.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG", TH Đồng Nai 3
+https://code.television4you.xyz/getlink/diaphuong?kenh=dnlive&id=dnrtv3
+
+#EXTINF:-1 group-title="DIA PHUONG", Bạc Liêu
+https://tv.thbl.vn/live/tv/tv.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG", Kiên Giang 2
+https://tv.kgtv.vn/live/kgtv/kgtv.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG", Kiên Giang 1
+https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG", Đồng Tháp 1
+http://118.69.169.41:1935/THDT/thdttv/chunklist.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG", Đồng Tháp 2
+https://livecdn.fptplay.net/sdc/dongthaphd_2000.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG", Gia Lai
+https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG", Hà Nội 1
+https://livecdn.fptplay.net/sdc/hanoitv1_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG", Hà Nội 2
+#http://103.90.220.236/hntvlive/tv2live.m3u8
+https://livecdn.fptplay.net/sdc/hanoitv2_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG", Hậu Giang
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/sda/haugiang_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG", Khánh Hòa
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG", Lâm Đồng
+http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_b1384000.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG", Long An
+https://la34.vncdn.vn/live/LA34AAA/playlist.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG", Ninh Thuận
+http://202.43.109.142:1935/NTV/ntvtv/chunklist.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG", Sóc Trăng 1
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG", Sóc Trăng 2
+http://live.television4you.xyz/stv2/mpegts
+
+#EXTINF:-1 group-title="DIA PHUONG", Sóc Trăng 2HD
+http://live.television4you.xyz/stv2/mpegts
+
+#EXTINF:-1 group-title="DIA PHUONG", Tây Ninh
+http://202.43.109.142:1935/ttv11/tntv/playlist.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG", Tiền Giang
+http://123.25.238.45:1935/live/thtg/chunklist.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG", Trà Vinh 1
+http://118.69.169.42:1935/THTV/travinhtv/playlist.m3u8
+
+#EXTINF:-1 group-title="DIA PHUONG", Trà Vinh 2
+http://118.69.169.42:1935/THTV2/mystream/playlist.m3u8
