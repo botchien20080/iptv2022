@@ -1,98 +1,45 @@
-#EXTINF:0,FR_A_LA_CARTE_X_ADULTES_1
-http://www.t12v.com:8000/live/jarod/jarod/1271.ts
-
-#EXTINF:0,FR_XXL
-http://www.t12v.com:8000/live/jarod/jarod/1270.ts
-
-#EXTINF:0,FR_EUROSPORT_2
-http://www.t12v.com:8000/live/jarod/jarod/1256.ts
-
-#EXTINF:0,FR_HUSTLER_HD
-http://www.t12v.com:8000/live/jarod/jarod/1196.ts
-
-#EXTINF:0,FR_AB_MOTEUR_HD
-http://www.t12v.com:8000/live/jarod/jarod/1195.ts
-
-#EXTINF:0,FR_PARAMOUNT_HD
-http://www.t12v.com:8000/live/jarod/jarod/1194.ts
-
-ADULTRI_1
-http://www.t12v.com:8000/live/jarod/jarod/811.ts
-
-#EXTINF:0,ADULTRI_2
-http://www.t12v.com:8000/live/jarod/jarod/812.ts
-
-#EXTINF:0,ADULTRI_3
-http://www.t12v.com:8000/live/jarod/jarod/813.ts
-
-#EXTINF:0,ADULTRI_4
-http://www.t12v.com:8000/live/jarod/jarod/814.ts
-
-#EXTINF:0,ADULTRI_5
-http://www.t12v.com:8000/live/jarod/jarod/783.ts
-
-#EXTINF:0,ADULTRI_6
-http://www.t12v.com:8000/live/jarod/jarod/782.ts
-
-#EXTINF:0,ADULTRI_7
-http://www.t12v.com:8000/live/jarod/jarod/780.ts
-
-#EXTINF:0,ADULTRI_8
-http://www.t12v.com:8000/live/jarod/jarod/773.ts
-
-#EXTINF:0,ADULTRI_9
-http://www.t12v.com:8000/live/jarod/jarod/772.ts
-
-#EXTINF:0,ADULTRI_10
-http://www.t12v.com:8000/live/jarod/jarod/771.ts
-
-#EXTINF:0,ADULTRI_11
-http://www.t12v.com:8000/live/jarod/jarod/770.ts
-
-#EXTINF:0,ADULTRI_12
-http://www.t12v.com:8000/live/jarod/jarod/906.ts
-
-#EXTINF:0,ADULTRI_13
-http://www.t12v.com:8000/live/jarod/jarod/907.ts
-
-#EXTINF:0,ADULTRI_14
-http://www.t12v.com:8000/live/jarod/jarod/908.ts
-
-#EXTINF:0,ADULTRI_15
-http://www.t12v.com:8000/live/jarod/jarod/1197.ts
-
-#EXTINF:0,ADULTRI_16
-http://www.t12v.com:8000/live/jarod/jarod/1198.ts
-
-#EXTINF:0,ADULTRI_17
-http://www.t12v.com:8000/live/jarod/jarod/1199.ts
-
-#EXTINF:0,ADULTRI_18
-http://www.t12v.com:8000/live/jarod/jarod/1200.ts
-
-#EXTINF:0,ADULTRI_19
-http://www.t12v.com:8000/live/jarod/jarod/1201.ts
-
-#EXTINF:0,ADULTRI_20
-http://www.t12v.com:8000/live/jarod/jarod/1202.ts
-
-#EXTINF:0,ADULTRI_21
-http://www.t12v.com:8000/live/jarod/jarod/1203.ts
-
-#EXTINF:0,ADULTRI_22
-http://www.t12v.com:8000/live/jarod/jarod/1204.ts
-
-#EXTINF:0,ADULTRI_23
-http://www.t12v.com:8000/live/jarod/jarod/1205.ts
-
-#EXTINF:0,ADULTRI_24
-http://www.t12v.com:8000/live/jarod/jarod/1206.ts
-
-#EXTINF:0,ADULTRI_25
-http://www.t12v.com:8000/live/jarod/jarod/1345.ts
-
-#EXTINF:0,ADULTRI_26
-http://www.t12v.com:8000/live/jarod/jarod/1346.ts
-
-#EXTINF:0,ADULTRI_27
-http://www.t12v.com:8000/live/jarod/jarod/1347.ts
+#EXTM3U
+#EXTINF:-1,https://playlist-iptv.ru
+https://playlist-iptv.ru/wp-content/uploads/2018/11/tv-logo.png
+#EXTINF:-1 ,XXX 150
+http://s1.hdporus.com/content/vod/s1852/480/index.m3u8
+#EXTINF:-1 ,XXX 151
+http://s1.hdporus.com/content/vod/s1853/480/index.m3u8
+#EXTINF:-1 ,XXX 152
+http://s1.hdporus.com/content/vod/s1854/480/index.m3u8
+#EXTINF:-1 ,XXX 153
+http://s1.hdporus.com/content/vod/s1855/480/index.m3u8
+#EXTINF:-1 ,XXX 155
+http://s1.hdporus.com/content/vod/s1857/480/index.m3u8
+#EXTINF:-1 ,XXX 156
+http://s1.hdporus.com/content/vod/s1858/480/index.m3u8
+#EXTINF:-1 ,XXX 157
+http://s1.hdporus.com/content/vod/s1859/480/index.m3u8
+#EXTINF:-1 ,XXX 158
+http://s1.hdporus.com/content/vod/s1860/480/index.m3u8
+#EXTINF:-1 ,XXX 159
+http://s1.hdporus.com/content/vod/s1861/480/index.m3u8
+#EXTINF:-1 ,XXX 16
+http://s1.hdporus.com/content/vod/s1716/480/index.m3u8
+#EXTINF:-1 ,XXX 160
+http://s1.hdporus.com/content/vod/s1862/480/index.m3u8
+#EXTINF:-1 ,XXX 161
+http://s1.hdporus.com/content/vod/s1863/480/index.m3u8
+#EXTINF:-1 ,XXX 162
+http://s1.hdporus.com/content/vod/s1864/480/index.m3u8
+#EXTINF:-1 ,XXX 163
+http://s1.hdporus.com/content/vod/s1865/480/index.m3u8
+#EXTINF:-1 ,XXX 164
+http://s1.hdporus.com/content/vod/s1866/480/index.m3u8
+#EXTINF:-1 ,XXX 165
+http://s1.hdporus.com/content/vod/s1867/480/index.m3u8
+#EXTINF:-1 ,XXX 166
+http://s1.hdporus.com/content/vod/s1868/480/index.m3u8
+#EXTINF:-1 ,XXX 167
+http://s1.hdporus.com/content/vod/s1869/480/index.m3u8
+#EXTINF:-1 ,XXX 168
+http://s1.hdporus.com/content/vod/s1871/480/index.m3u8
+#EXTINF:-1 ,XXX 168
+http://s1.hdporus.com/content/vod/s1870/480/index.m3u8
+#EXTINF:-1 ,XXX 169
+http://s1.hdporus.com/content/vod/s1872/480/index.m3u8
