@@ -1,0 +1,1457 @@
+
+
+#EXTM3U VTV HD
+#EXTINF:-1 group-title="VTV HD",VTV 1
+https://livecdn.fptplay.net/hda1/vtv1hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="VTV HD",VTV 2
+https://livecdn.fptplay.net/hda1/vtv2_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="VTV HD",VTV 3
+https://livecdn.fptplay.net/hda1/vtv3hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="VTV HD",VTV 4
+https://livecdn.fptplay.net/hda1/vtv4_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="VTV HD",VTV 5
+https://livecdn.fptplay.net/hda2/vtv5hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="VTV HD",VTV Tây Nam Bộ
+https://vtvgolive-vtv.vtvdigital.vn/jTWi_Q-_8hyvkMWK6Jwk-w/1681388640/vtvdigital/vtv5tnb-480p.m3u8
+
+#EXTINF:-1 group-title="VTV HD",VTV Tây Nguyên
+https://vtvgolive-vtv.vtvdigital.vn/PhbmTzw6gMHOmeFrcTcm3A/1681388581/vtvdigital/vtv5tn-480p.m3u8
+
+#EXTINF:-1 group-title="VTV HD",Cần Thơ
+https://livecdn.fptplay.net/hda1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="VTV HD",VTV 7
+https://livecdn.fptplay.net/hda3/vtv7hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="VTV HD",VTV 8
+https://livecdn.fptplay.net/hda2/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="VTV HD",VTV 9
+https://livecdn.fptplay.net/hda2/vtv9_vhls.smil/chunklist_b5000000.m3u8
+
+
+#EXTM3U Vĩnh Long
+#EXTINF:-1 group-title="Vĩnh Long", Vĩnh Long 1
+https://vips-livecdn.fptplay.net/hda1/vinhlong1_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="Vĩnh Long", Vĩnh Long 2
+https://vips-livecdn.fptplay.net/hda2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="Vĩnh Long", Vĩnh Long 3
+https://vips-livecdn.fptplay.net/hda2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="Vĩnh Long", Vĩnh Long 4
+https://livecdn.fptplay.net/hda3/vinhlong4hd_hls.smil/chunklist_b2500000.m3u8
+
+
+#EXTM3U VTC
+#EXTINF:-1 group-title="VTC", VTC1
+https://vips-livecdn.fptplay.net/hda1/vtc1_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="VTC", VTC2
+https://vips-livecdn.fptplay.net/sdb/vtc2_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="VTC", VTC3
+https://vips-livecdn.fptplay.net/hda1/vtc3hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="VTC", VTC4
+https://vips-livecdn.fptplay.net/hda2/vtc4_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="VTC", VTC5
+https://vips-livecdn.fptplay.net/sdb/vtc5_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="VTC", VTC6
+https://vips-livecdn.fptplay.net/sdb/vtc6_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="VTC", VTC7
+https://vips-livecdn.fptplay.net/sdb/todaytv_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="VTC", VTC8
+https://vips-livecdn.fptplay.net/sdb/vtc8_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="VTC", VTC9
+https://vips-livecdn.fptplay.net/sdb/vtc9_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="VTC", VTC10
+https://vips-livecdn.fptplay.net/sdb/vtc10_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="VTC", VTC11
+https://vips-livecdn.fptplay.net/sdb/vtc11_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="VTC", VTC12
+https://vips-livecdn.fptplay.net/sdb/vtc12_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="VTC", VTC13
+https://vips-livecdn.fptplay.net/hda1/vtc13_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="VTC", VTC14
+https://vips-livecdn.fptplay.net/hda1/vtc14_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="VTC", VTC15
+
+#EXTINF:-1 group-title="VTC", VTC16
+https://vips-livecdn.fptplay.net/sdb/vtc16_hls.smil/chunklist_b2500000.m3u8
+
+
+#EXTM3U SCTV
+#EXTINF:-1 group-title="SCTV", SCTV1
+https://vtsstr7.tv24.vn/live/SCTV_HD_Hai_new.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="SCTV", SCTV2
+https://vtsstr6.tv24.vn/live/sctv2_HD_new.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="SCTV", SCTV3
+https://vtsstr4.tv24.vn/live/SCTVHDThieunhi_new.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="SCTV", SCTV4
+https://vtsstr4.tv24.vn/live/SCTV_HD_GiaiTri_new.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="SCTV", SCTV5
+https://api.vthanhtivi.pw/v2/getlink/mytv/226/hd.m3u8
+
+#EXTINF:-1 group-title="SCTV", SCTV6
+http://vips-livecdn.fptplay.net/hda3/film360_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="SCTV", SCTV7
+https://vtsstr4.tv24.vn/live/SCTV_HD_SanKhau_new.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="SCTV", SCTV8
+https://vtsstr4.tv24.vn/live/SCTV8_SD_new.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="SCTV", SCTV9
+https://vtsstr4.tv24.vn/live/SCTV_HD_PhimChauA_new.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="SCTV", SCTV10
+https://vtsstr4.tv24.vn/live/sctv10_SD_new.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="SCTV", SCTV11
+https://vtsstr4.tv24.vn/live/SCTVVHNT_HD_new.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="SCTV", SCTV12
+https://vtsstr4.tv24.vn/live/SCTV12_HD_new.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="SCTV", SCTV13
+https://vtsstr7.tv24.vn/live/SCTVHDPhunuGiadinh_new.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="SCTV", SCTV14
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv14/index.m3u8
+
+#EXTINF:-1 group-title="SCTV", SCTV15
+https://856175157.r.vtvcdn.com/ondrm/SCTV15_HD/sc-gaFEAQ/m30_index.m3u8
+
+#EXTINF:-1 group-title="SCTV", SCTV16
+https://vtsstr4.tv24.vn/live/SCTV_HD_phimnuocngoaidacsac_new.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="SCTV", SCTV17
+https://vtsstr4.tv24.vn/live/SCTV17_HD_new.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="SCTV", SCTV18
+https://vtsstr4.tv24.vn/live/SCTV18_HD_new.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="SCTV", SCTV19
+https://vtsstr4.tv24.vn/live/SCTV19_HD_new.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="SCTV", SCTV20
+https://vtsstr4.tv24.vn/live/SCTV20_HD_new.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="SCTV", SCTV21
+https://e1.endpoint.cdn.sctvonline.vn/playlist/sctv21/index.m3u8
+
+#EXTINF:-1 group-title="SCTV", SCTV22
+https://vtsstr4.tv24.vn/live/SCTV22_HD_new.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="SCTV", SCTV Phim Tổng Hợp
+https://vtsstr7.tv24.vn/live/SCTVHD_PhimTongHop.smil/playlist.m3u8
+
+
+#EXTM3U HTV
+#EXTINF:-1 group-title="HTV", HTV1
+https://livecdn.fptplay.net/sdb/htv1_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="HTV", HTV2
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTV2-HD-1080p/playlist.m3u8
+
+#EXTINF:-1 group-title="HTV", HTV3
+https://livecdn.fptplay.net/sdb/htv3_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="HTV", HTV4
+https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="HTV", HTV7
+https://livecdn.fptplay.net/hda1/htv7hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="HTV", HTV9
+https://livecdn.fptplay.net/hda1/htv9hd_vhls.smil/chunklist_b5000000.m3u8
+
+
+#EXTM3U HTVC
+#EXTINF:-1 group-title="HTVC", Thuần Việt
+https://vips-livecdn.fptplay.net/hda3/htvcthuanviet_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="HTVC", Thuần Việt HD
+https://vips-livecdn.fptplay.net/hda1/htvcthuanviethd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="HTVC", Gia Đình
+https://vips-livecdn.fptplay.net/hda3/htvcgiadinh_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="HTVC", Phụ Nữ
+https://vips-livecdn.fptplay.net/hda3/htvcphunu_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="HTVC", Du Lịch
+https://vips-livecdn.fptplay.net/hda3/htvcdulich_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="HTVC", Ca Nhạc
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-CANHAC-HD-1080p/chunks.m3u8
+
+#EXTINF:-1 group-title="HTVC", Phim
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HTVC-PHIM-HD-1080p/chunks.m3u8
+
+#EXTINF:-1 group-title="HTVC", HTVC Plus
+https://vips-livecdn.fptplay.net/hda3/htvcplus_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="HTVC", Homeshopping
+https://drm-livecdn.hplus.com.vn/CDN-FPT02/HOMESHOPPING-SD-ABR/HTV-ABR/HOMESHOPPING-SD-720p/chunks.m3u8
+
+#-*--VTVCAB-*--#
+#EXTINF:-1 tvg-id="vtvcab1hd" group-title="🧡| VTVcab" tvg-logo="https://cdn.hqth.me/logo/thumbs/12.png" catchup="append" catchup-days="2" catchup-source="https://code.vthanhtivi.pw/xemlai/vieon/vie-giai-tri-hd/dvr-${start}-${offset}.m3u8",  VTVcab 1 - Vie Giải trí HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://livevlive.vtvcab.vn/hls/GIAITRI_TV_HD_CL/sc-gaFEAQ/m20_index.m3u8
+
+
+
+#EXTM3U Quốc Tế
+#EXTINF:-1 tvg-logo="https://i1.wp.com/gdplayer.tv/assets/img/logo/hbo.png" group-title="Quốc Tế", HBO 
+https://hqth.me/Khichtivihbohd
+#https://livecdn.fptplay.net/hda1/hbo_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/gdplayer.tv/assets/img/logo/hbo.png" group-title="Quốc Tế", HBO HD
+http://s4.nihontv.net:21585/hbo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/gdplayer.tv/assets/img/logo/hbo.png" group-title="Quốc Tế", HBO2
+http://94.230.240.17:8080/fan/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế", Red by HBO
+https://xplore-roku.amagi.tv/playlist1080-p.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế", Cinemax
+https://hqth.me/Khichtivicinemaxhd
+
+#EXTINF:-1 group-title="Quốc Tế", CinemaWorld
+https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế", Box Movie 1
+https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế", Box Movie 1 HD
+https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist_w94000426_b1692000.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế", Hollywood Classics
+https://vtsstr7.tv24.vn/live/smil:Hollywood.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế", In The Box
+https://code.vthanhtivi.pw/getlink/cliptv/838/chunklist_b5128000.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế", Music Box
+https://code.vthanhtivi.pw/getlink/cliptv/840/chunklist_b5128000.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế", Box Hits
+https://code.vthanhtivi.pw/getlink/mytv/105/hd.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế", Man
+https://code.vthanhtivi.pw/getlink/cliptv/837/chunklist_b5128000.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế", Dr.Fit
+https://code.vthanhtivi.pw/getlink/cliptv/823/chunklist_b5128000.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế", Happy Kids
+https://code.vthanhtivi.pw/getlink/cliptv/824/chunklist_b5128000.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế", Music Box
+https://code.vthanhtivi.pw/getlink/mytv/69/hd.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế", Planet Earth
+https://code.vthanhtivi.pw/getlink/tv360/135/2.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế", Woman
+https://code.vthanhtivi.pw/getlink/tv360/163/2.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế", Box Movie 1 SCTV
+https://vtsstr7.tv24.vn/live/smil:BOX_MOVIE_HD.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế", Hollywood Classics SCTV
+https://vtsstr7.tv24.vn/live/smil:Hollywood.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế", Dr.Fit SCTV
+#EXTVLCOPT:http-referer=http://sctvonline.vn
+https://e4.endpoint.cdn.sctvonline.vn/hls/drfit/sd2/index.m3u8|Referer=http://sctvonline.vn/
+
+#EXTINF:-1 group-title="Quốc Tế", Happy Kids SCTV
+https://vtsstr7.tv24.vn/live/smil:Happy_Kids.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế", Planet Earth SCTV
+https://vtsstr7.tv24.vn/live/smil:Planet_Earth.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế",  Woman SCTV
+https://vtsstr7.tv24.vn/live/smil:Woman.smil/chunklist.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế",  Animax HD
+https://livecdn.fptplay.net/hda3/animaxport_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế", Boomerang HD
+https://livecdn.fptplay.net/hda3/boomerang_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế", Cartoon Network HD
+https://livecdn.fptplay.net/hda3/cartoonnetworkhd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế", Dreamworks
+https://vips-livecdn.fptplay.net/hda3/dreamworks_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế",  BabyFirst
+https://livecdn.fptplay.net/hda1/babyfirst_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế", BabyTV HD
+https://vips-livecdn.fptplay.net/hda3/babytvhd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế", Animal Planet
+https://livecdn.fptplay.net/hda2/animalplanet_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế", Discovery
+https://livecdn.fptplay.net/hda2/discovery_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế", Discovery Asia
+https://livecdn.fptplay.net/hda2/discoveryasia_vhls.smil/chunklist_b5000000.m3u8
+
+##EXTINF:-1 group-title="Quốc Tế", National Geographic HD
+https://vips-livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế", Nat Geo Wild HD
+https://vips-livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế", Outdoor Channel HD
+https://livecdn.fptplay.net/hda1/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế", AXN HD
+http://livecdn.fptplay.net/hda3/axnhd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế", Rock Entertainment
+https://livecdn.fptplay.net/hda1/blueantent_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế", Blue Ant Extreme HD
+http://vips-livecdn.fptplay.net/hda1/blueantext_vhls.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế", STAR 1
+http://redlabmcdn.s.llnwi.net/nv02/bs09hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế", STAR 2
+http://redlabmcdn.s.llnwi.net/nv02/bs10hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế", Cinebox HD
+http://66.160.192.241/cineboxcinehd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế", CinemaWorld
+https://livecdn.fptplay.net/hda2/cinemawork_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế", Fashion TV
+https://livecdn.fptplay.net/hda2/fashiontvhd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế", KIX HD
+#EXTVLCOPT:http-user-agent=dovietsy
+https://livecdn.fptplay.net/hda1/kixhd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế", Paramount Channel
+
+#EXTINF:-1 group-title="Quốc Tế", TLC
+https://livecdn.fptplay.net/hda2/travelliving_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế", Warner TV
+http://livecdn.fptplay.net/hda3/warnertv_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế",tvg-logo="https://i1.wp.com/gdplayer.tv/assets/img/logo/kpoptv-play.png",  Kpop
+https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w1226297415.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế",tvg-logo="https://i1.wp.com/gdplayer.tv/assets/img/logo/the-kpop.png",  KpopTV
+https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w950723451.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế",tvg-logo="https://i1.wp.com/gdplayer.tv/assets/img/logo/kpoptv-play.png",  KpopTV HD
+https://srv1.zcast.com.br/kpoptv/kpoptv/chunklist_w2123201163.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế",tvg-logo="https://i0.wp.com/gdplayer.tv/assets/img/logo/my-cinema.png",  My Cinemax
+https://sv1.mixstreams.net/dens2/session/4e1a64d0-d1ec-11ed-aeaf-b82a72d63267/x6bnqe/h/h192/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Filmbox_pl.png" group-title="Quốc Tế", FILMBOX
+http://94.230.240.17:8080/film_box/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y282owj.png" group-title="Quốc Tế", Thrill
+http://210.210.155.37/qwr9ew/s/s34/index.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế", DMax HD
+https://code.vthanhtivi.pw/getlink/cliptv/841/chunklist_b5128000.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế", DMax
+https://s6.hopslan.com/dmaxb/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế",  FOX LIFE
+https://magselect-stirr.amagi.tv/playlist1080p.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế",  AMAGI
+https://xplore-roku.amagi.tv/playlist1080-p.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế", FTV
+https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Quốc Tế", Love Nature
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+
+
+
+
+
+#EXTM3U Bình Dương
+#EXTINF:-1 group-title="Bình Dương", BTV1
+https://livecdn.fptplay.net/hda3/btv1_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Bình Dương", BTV2
+https://livecdn.fptplay.net/hda3/btv2_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Bình Dương", BTV3
+https://livecdn.fptplay.net/sdb/binhduong3_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Bình Dương", BTV4
+https://vips-livecdn.fptplay.net/hda2/btv4hd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="Bình Dương", BTV5
+https://code.vthanhtivi.pw/getlink/onplus/BTV5/m30_index.m3u8
+
+#EXTINF:-1 group-title="Bình Dương", BTV6
+https://livecdn.fptplay.net/sda/btv6_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Bình Dương", BTV9
+https://livecdn.fptplay.net/sdc/btv9_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Bình Dương", BTV10
+
+#EXTINF:-1 group-title="Bình Dương", BTV11
+https://livecdn.fptplay.net/sda/btv11_hls.smil/chunklist_b2500000.m3u8
+
+
+
+
+#EXTM3U Địa Phương
+#EXTINF:-1 group-title="Địa Phương",Hà Nội 1SD
+https://livecdn.fptplay.net/sdc/hanoitv1_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương",Hà Nội 1HD
+https://1028513096.vnns.net/tv1-abr/hntvlive/tv1_1080p/chunks.m3u8
+
+#EXTINF:-1 group-title="Địa Phương",Hà Nội 2HD
+https://1028513096.vnns.net/tv2-abr/hntvlive/tv2_1080p/chunks.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", VOV TV
+https://mediatech.vncdn.vn/vovlive/tv1live.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", V.News TV
+http://vips-livecdn.fptplay.net/hda2/ttxvn_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", An Ninh TV
+https://vips-livecdn.fptplay.net/hda2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Nhân Dân
+https://vips-livecdn.fptplay.net/sdc/truyenhinhnhandan_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Quốc Phòng
+https://vips-livecdn.fptplay.net/hda1/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Quốc Hội
+https://vips-livecdn.fptplay.net/hda1/quochoivn_vhls.smil/chunklist_b5000000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Hanoicab1
+https://api.vthanhtivi.pw/v1/getlink/tv360_s2/32/0
+
+#EXTINF:-1 group-title="Địa Phương", Hanoicab2
+https://livecdn.fptplay.net/sdb/youtv_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Kiên Giang
+https://livecdn.fptplay.net/sda/kiengiang_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Đà Nẵng 1
+https://livecdn.fptplay.net/sdc/danang1_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Đà Nẵng 2
+https://livecdn.fptplay.net/sdc/danang2_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Bắc Giang
+https://livecdn.fptplay.net/sdc/bacgiang_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Ninh Bình
+https://nbtv.vncdn.vn/nbtvlive/tv1live.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Thái Bình
+http://cdn.tbtv.mediatech.vn/tbtvlive/tv1live.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Thái Nguyên
+https://livecdn.fptplay.net/sdc/thainguyen_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Quảng Ninh 1
+http://qtv.vncdn.vn/qtvlive/tv1live.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Quảng Ninh 3
+http://qtv.vncdn.vn/qtvlive/tv3live.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Binh Phước 1
+https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Binh Phước 2
+https://livecdn.fptplay.net/sdc/binhphuoc2_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Binh Phước 3
+https://8387e1fb5a.vws.vegacdn.vn/live/binhphuoc3/chunklist_1.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Đồng Nai 1
+https://livecdn.fptplay.net/sda/dongnai1_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Đồng Nai 2
+https://livecdn.fptplay.net/sda/dongnai2_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Tây Ninh
+http://202.43.109.142:1935/ttv11/tntv/playlist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Vũng Tàu
+http://113.163.216.23:1935/live/tv2.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", An Giang
+https://livecdn.fptplay.net/sda/angiang_1000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Bạc Liêu
+https://livecdn.fptplay.net/sdc/baclieu_hls.smil/chunklist_b2800000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Bến Tre
+https://livecdn.fptplay.net/sdc/bentre_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Cà Mau
+https://livecdn.fptplay.net/sdc/camau_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Cần Thơ
+https://vips-livecdn.fptplay.net/sda/cantho_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Đồng Tháp 1
+https://livecdn.fptplay.net/sdc/dongthap_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Đồng Tháp 2
+http://202.43.109.145:1935/thdt2/thdt2/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Hậu Giang
+http://livecdn.fptplay.net/sda/haugiang_2000.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Kiên Giang
+https://livecdn.fptplay.net/sda/kiengiang_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Long An
+https://livecdn.fptplay.net/sdc/longan_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Sóc Trăng
+https://livecdn.fptplay.net/sda/soctrang_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Tiền Giang
+https://livecdn.fptplay.net/sda/tiengiang_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Trà Vinh
+https://livecdn.fptplay.net/sdc/travinh_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Bình Dịnh
+https://livecdn.fptplay.net/sda/binhdinh_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Bình Thuận
+https://livecdn.fptplay.net/sdc/binhthuan_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Ninh Thuận
+https://livecdn.fptplay.net/sda/ninhthuan_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Đắc Lắc
+https://livecdn.fptplay.net/sdc/daklak_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Gia Lai 
+https://livecdn.fptplay.net/sda/gialai_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Kon Tum
+https://livecdn.fptplay.net/sdc/kontum_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Lâm Đồng
+https://livecdn.fptplay.net/sdc/lamdong_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Khánh Hòa
+https://livecdn.fptplay.net/sda/khanhhoa_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Phú Yên
+https://livecdn.fptplay.net/sda/phuyen_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Quảng Bình
+https://livecdn.fptplay.net/sda/quangbinh_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Quảng Nam
+https://livecdn.fptplay.net/sdc/quangnam_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Quảng Ngãi
+https://livecdn.fptplay.net/sda/quangngai_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Quảng Trị
+https://livecdn.fptplay.net/sdc/quangtri_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Nghệ An
+https://livecdn.fptplay.net/sda/nghean_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Hà Tỉnh
+https://livecdn.fptplay.net/sdc/hatinh_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Huế
+https://livecdn.fptplay.net/sdc/hue_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Bắc Cạn
+https://livecdn.fptplay.net/sdb/backan_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Bắc Ninh
+https://api.vthanhtivi.pw/v2/getlink/mytv/360/hd.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Cao Bằng
+https://livecdn.fptplay.net/sda/caobang_1000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Điện Biên
+https://livecdn.fptplay.net/sdc/dienbien_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Hà Giang
+https://livecdn.fptplay.net/sda/hagiang_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Hà Nam
+https://livecdn.fptplay.net/sda/hanam_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Hải Dương
+https://livecdn.fptplay.net/sdc/haiduong_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Hải Phòng
+https://livecdn.fptplay.net/sdc/haiphong_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Hải Phòng +
+https://live.thhp.vn/hls/thpplus/index.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Hòa Bình
+http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Hưng Yên
+https://livecdn.fptplay.net/sdc/hungyen_2000.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Lai Châu
+https://livecdn.fptplay.net/sdc/laichau_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Lạng Sơn
+http://cdn.lstv.mediatech.vn/lstvlive/tv1live.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Lào Cai
+https://livecdn.fptplay.net/sdc/laocai_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Nam Định
+https://livecdn.fptplay.net/sdc/namdinh_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Phú Thọ
+https://livecdn.fptplay.net/sda/phutho_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Sơn La
+https://livecdn.fptplay.net/sdc/sonla_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Thanh Hóa
+https://livecdn.fptplay.net/sda/thanhhoa_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Tuyên Quang
+https://livecdn.fptplay.net/sda/tuyenquang_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Yên Bái
+https://yenbaitv.org.vn/hls/livestream.m3u8
+
+#EXTINF:-1 group-title="Địa Phương", Vĩnh Phúc
+https://livecdn.fptplay.net/sdc/vinhphuc_hls.smil/chunklist_b2500000.m3u8
+
+
+#EXTM3U Thể Thao
+#EXTINF:-1 tvg-id="ksport1hd" group-title="Thể Thao" tvg-logo="https://i.ibb.co/pPhLGqn/k1.png", K+ Sport1 FHD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Uyr8B99kQvUrkQJ4S5/Png", "kid":"cYPHq5dKT+iMoA42fOyClg" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://live-akm4.tv360.vn/manifest/K-PLUS-1-50FPS/masterdash.mpd?hdnts=exp=1679405479~acl=/*~hmac=ede08a28f01588514705d06a50200e65d52b78c7b432583437206d7cd381c30a&manifestfilter=video_bitrate:1-3600000&uid=16352080
+
+#EXTINF:-1 tvg-id="ksport2hd" group-title="Thể Thao" tvg-logo="https://i.ibb.co/smmzvfX/k2.png", K+ Sport2 FHD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"6rnP9BYWzW+cIUZmo1tNaA", "kid":"576aG5DUTnuBlmh+8EtdZw" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+http://live-akm4.tv360.vn/manifest/K-PLUS-2-50FPS/masterdash.mpd?hdnts=exp=1679419471~acl=/*~hmac=44bf1a2876bf4661978dbdd76f28b5932c8160499b6c2e208144f7a238d0caae
+
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao",Ziggo Sport Tennis 4K
+http://sonic-eg.com:80/12355/12355/131286
+
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao",SKY SPORT TENNIS HD
+http://113.160.75.155:8889/wisd.php?id=310967
+
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao", SUPER TENNIS FHD
+http://113.160.75.155:8889/wisd.php?id=76634
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1O-pZ_LhNYh1XRbmHkNeLAaPsdyOkqgAs-g&usqp=CAU" group-title="Thể Thao",TENNIS HD
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist720_p.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1O-pZ_LhNYh1XRbmHkNeLAaPsdyOkqgAs-g&usqp=CAU" group-title="Thể Thao",TENNIS 1
+https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1O-pZ_LhNYh1XRbmHkNeLAaPsdyOkqgAs-g&usqp=CAU" group-title="Thể Thao",TENNIS
+https://entahlah.gdplayer.to/playlist/U285UlZvdnh0RlZzNWlZSlR0d0J1MkVLUkJ1RHV0R2ZGNWxqUDNWZHZ2MjIxQTg5Mk8wbUhidXY5RVRTaUUrL25ORzd4anU4OUU4K1lZanNuU1BVRlE9PQ,,/master.m3u8?token=WEpnT0tDTE5Pd1RMSlVONFFXbm1FdXphMzRlQ244bjk5NzlSdjNQdUNPNFhFQzhZRXpyVFNFand2SjRNU2ZhNUc4Z01JbEhjM3M5ejc1NStlQ3VxS3c9PQ,,
+
+#EXTINF:-1 tvg-id="SuperTennis.it" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/512px-SuperTennis_-_Logo_2016.svg.png" group-title="Thể Thao",Super Tennis (1080p)
+https://supertennix-l3-live1.secure.footprint.net/restreamer/supertennix_client/gpu-a-c0-16/restreamer/rtmp/hls/h24_supertennix/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.prismic.io/atmosphere-marketing/372f3f16-2a2d-401b-ba32-08e6f8e01693_Billiards+-+Channel+Logo.png?auto=compress,format" group-title="Thể Thao", BilliardsTV
+https://stream-us-east-1.getpublica.com/cl/230123cf74bkh77uq40666mg0g/1280x720_5000000_0_f.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/817/272/png-transparent-fight-network-boxing-television-ufc-129-st-pierre-vs-shields-logo-boxing-television-text-logo.png" group-title="Thể Thao", FIGHT Network
+https://d12a2vxqkkh1bo.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/FIGHT_SPORTS_2018.png/revision/latest?cb=20191026180443" group-title="Thể Thao", FIGHT SPORTS
+https://shls-fight-sports-ak.akamaized.net/out/v1/ee7e6475b12e484bbfa5c31461ad4306/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/267/190/png-transparent-golf-course-tournament-sport-golf-logos-s-text-sport-logo.png" group-title="Thể Thao", ONE GOLF HD
+http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nicepng.com/png/full/417-4179981_racing-com-racing-victoria-logo-png.png" group-title="Thể Thao", Racing
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/gdplayer.tv/assets/img/logo/red-bull-tv.png" group-title="Thể Thao", Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/992/38/png-clipart-boxing-logo-boxing-logo-martial-arts-combat-boxing-propaganda-sign-game-text.png" group-title="Thể Thao", BOXING
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
+
+
+
+
+#EXTINF:0 tvg-country="AF" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Canal%2B_Sport_%282013%29.svg/800px-Canal%2B_Sport_%282013%29.svg.png" group-title="Thể Thao",CANAL+ SPORT 1HD
+http://kuchini.site:8080/mosesmn/4e40546ad6/291175
+
+#EXTINF:0 tvg-country="AF" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/4/4f/Canal%2B_Sport_%282013%29.svg/800px-Canal%2B_Sport_%282013%29.svg.png" group-title="Thể Thao",CANAL+ SPORT 1
+http://iptvh2o.com:2082/bestregards/7W88PkMXp4/138344
+
+#EXTINF:0 tvg-country="AF" tvg-logo="https://taksiegra.pl/wp-content/uploads/2015/05/CANAL-Sport-2-HD-ikona-wpisu-600x300.png" group-title="Thể Thao",CANAL+ SPORT 2
+http://iptvh2o.com:2082/bestregards/7W88PkMXp4/138346
+
+#EXTINF:0 tvg-country="AF" tvg-logo="https://taksiegra.pl/wp-content/uploads/2015/05/CANAL-Sport-2-HD-ikona-wpisu-600x300.png" group-title="Thể Thao",CANAL+ SPORT 2HD
+http://kuchini.site:8080/mosesmn/4e40546ad6/143
+
+#EXTINF:0 tvg-country="AF" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Canal%2B_Sport_3_%282010%29.png/revision/latest?cb=20210731174625" group-title="Thể Thao",CANAL+  SPORT 3
+http://iptvh2o.com:2082/bestregards/7W88PkMXp4/138347
+
+#EXTINF:0 tvg-country="AF" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1e/Canal%2B_Sport_3_%282010%29.png/revision/latest?cb=20210731174625" group-title="Thể Thao",CANAL+  SPORT 3 HD
+http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/787
+
+#EXTINF:0 tvg-country="AF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Canal%2B_Sport_4_PL.png" group-title="Thể Thao",CANAL+ SPORT 4
+http://fuzzyunicorns.net:80/live/uFbrK9uUN/81qh5S2aF/752817.ts?checkedby:iptvcat.org
+
+#EXTINF:0 tvg-country="AF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a7/Canal%2B_Sport_4_PL.png" group-title="Thể Thao",CANAL+ SPORT 4HD
+http://iptvh2o.com:2082/bestregards/7W88PkMXp4/138348
+
+#EXTINF:0 tvg-country="AF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/CANAL%2B_Sport_5.png" group-title="Thể Thao",CANAL+ SPORT 5
+http://restream.my-iptv.net:8080/Kyriama/j4Knt3wW/1339
+
+#EXTINF:0 tvg-country="AF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/CANAL%2B_Sport_5.png" group-title="Thể Thao",CANAL+ SPORT 5HD
+http://kuchini.site:8080/mosesmn/4e40546ad6/291178
+#http://iptvh2o.com:2082/bestregards/7W88PkMXp4/205846
+
+#EXTINF:-1 group-title="Thể Thao" tvg-logo="https://w7.pngwing.com/pngs/394/542/png-transparent-foot-logo-northern-ireland-national-football-team-television-channel-logo-france-foot-television-text-trademark.png", CANAL Foot
+http://w.bs-share.com:8000/CRAZY/1166554422hjyas/441950
+
+#EXTINF:-1 group-title="Thể Thao" tvg-logo="https://interestingfootball.com/wp-content/uploads/2021/06/375px-Canal_Sport_logo_2009.svg_.png", CANAL Foot+
+http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/768
+
+#EXTINF:-1 group-title="Thể Thao" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Canal_MotoGP.png/revision/latest?cb=20200324160151", CANAL+ MOTO GP HD
+http://restream.my-iptv.net:8080/Kyriama/j4Knt3wW/2004
+
+#EXTINF:-1 group-title="Thể Thao" tvg-logo="https://thumb.canalplus.pro/http/unsafe/0x0/smart/filters:quality(40)/warehouse.canal-overseas.com/channel/0001/14/3faaf089ad1dd80b14d444db5e32e1d6efee7fd6.png", CANAL+ PREMIERE LEAGUE HD
+http://w.bs-share.com:8000/CRAZY/1166554422hjyas/438204
+#http://tesslatv.net:80/Gladio87935/R1ujHhMxdv/459053.ts
+
+#EXTINF:-1 group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png", CANAL+ SPORT 360 HD
+http://kuchini.site:8080/mosesmn/4e40546ad6/297378
+
+#EXTINF:-1 group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/64/Canal%2BSport_360.png", CANAL+ SPORT 360
+http://w.bs-share.com:8000/CRAZY/1166554422hjyas/441949
+#http://restream.my-iptv.net:8080/Kyriama/j4Knt3wW/3734
+
+#EXTINF:-1 group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/2560px-Fight_network_logo.svg.png", FIGHT NETWORK
+#http://stream.pizztv.com:8000/BEINTSPORTS/Hatyuytreded/475
+
+#EXTINF:-1 group-title="Thể Thao" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/f/fa/OLTV_3e_logo.svg/1200px-OLTV_3e_logo.svg.png", OL TV FHD
+http://player.smartvpluseu.com:8080/3143122720748133/2598854265/35544
+
+
+#EXTINF:-1 tvg-logo="https://png.pngitem.com/pimgs/s/555-5551961_fox-sports-1-logo-png-fox-sport-1.png" group-title="Thể Thao", FOXSPORTS1
+http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/686914
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logos/images/1/17/Fox_Sports_2_HD.png/revision/latest?cb=20221115060704&path-prefix=vi" group-title="Thể Thao", FOXSPORTS2
+http://143.244.60.97/FOXSPORTS2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/201_1920x1080_HTV.png" group-title="Thể Thao", Hub Sports 1
+http://line.liontv.site:80/play/live.php?mac=00:1a:79:1c:09:36&extension=ts&stream=941573
+
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/202_1920x1080_HTV.png" group-title="Thể Thao", Hub Sports 2
+http://line.liontv.site:80/play/live.php?mac=00:1a:79:1c:09:36&extension=ts&stream=941572
+
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao", Hub Sports 3
+
+
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/204_1920x1080_HTV.png" group-title="Thể Thao", Hub Sports 4
+http://line.liontv.site:80/play/live.php?mac=00:1a:79:1c:09:36&extension=ts&stream=941571
+
+
+
+#EXTINF:-1 tvg-logo="https://livematch.ge/img/Super-Sport-Action.png" group-title="Thể Thao", SuperSport Action FHD
+http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/683568
+
+#EXTINF:-1 tvg-logo="https://livematch.ge/img/Super-Sport-Action.png" group-title="Thể Thao", SuperSport Action HD
+http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/694748
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png" group-title="Thể Thao", SuperSport Cricket HD
+http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/688714
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/7lxofw1656964140.png"group-title="Thể Thao", SuperSport Football HD
+http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/678024
+
+#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-laliga.png"group-title="Thể Thao", SuperSport LaLiga
+http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/683001
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/R0S8N799/ezgif-6-a26f7b797690.webp"group-title="Thể Thao", SuperSport Golf FHD
+http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/688
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/aitip41642604897.png"group-title="Thể Thao", SuperSport Grandstand FHD
+http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/695550
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/aitip41642604897.png"group-title="Thể Thao", SuperSport Grandstand
+http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/678031
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/gdplayer.tv/assets/img/logo/supersport-premier-league.png"group-title="Thể Thao", SuperSport Premier League HD
+http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/694236
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/gdplayer.tv/assets/img/logo/supersport-psl.png"group-title="Thể Thao", SuperSport PSL HD
+http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/678030
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/0lwdq31638048788.png"group-title="Thể Thao", SuperSport Variety 1 HD
+http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/678020
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/9vnt801638048828.png"group-title="Thể Thao", SuperSport Variety 2 HD
+http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/678021
+
+#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-variety-3-live.png"group-title="Thể Thao", SuperSport Variety 3 HD
+http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/678022
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/jz5jpt1638048871.png"group-title="Thể Thao", SuperSport Variety 4 HD
+http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/678023
+
+#EXTINF:-1 tvg-logo="https://turntable.kagiso.io/images/Supersport.width-400.jpg"group-title="Thể Thao", SuperSport Blitz
+http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/682921
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/scvqpc1642604954.png"group-title="Thể Thao", SuperSport Rugby
+http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/678026
+
+#EXTINF:-1 tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-motorsport.png"group-title="Thể Thao", SuperSport Motorsport
+http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/678025
+
+#EXTINF:-1 tvg-logo="https://livematch.ge/img/SuperSport-Maxim.png"group-title="Thể Thao", SuperSport Maximo
+http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/682919
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/gdplayer.tv/assets/img/logo/astro-supersport.png" group-title="Thể Thao", Astro-supersport
+http://line.liontv.site:80/play/live.php?mac=00:1a:79:1c:09:36&stream=918986&extension=ts
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/gdplayer.tv/assets/img/logo/astro-supersport-2.png" group-title="Thể Thao", Astro-supersport 2
+http://line.liontv.site:80/play/live.php?mac=00:1a:79:1c:09:36&stream=918985&extension=ts
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/gdplayer.tv/assets/img/logo/astro-supersport-3.png" group-title="Thể Thao", Astro-supersport 3
+http://line.liontv.site:80/play/live.php?mac=00:1a:79:1c:09:36&stream=918984&extension=ts
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/gdplayer.tv/assets/img/logo/astro-supersport-4.png" group-title="Thể Thao", Astro-supersport 4
+http://line.liontv.site:80/play/live.php?mac=00:1a:79:1c:09:36&stream=918983&extension=ts
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/gdplayer.tv/assets/img/logo/astro-supersport-5.png" group-title="Thể Thao", Astro-supersport 5
+http://line.liontv.site:80/play/live.php?mac=00:1a:79:1c:09:36&stream=918982&extension=ts
+
+
+#EXTINF:-1 tvg-logo="http://x.pure-redirect.com/hispasat/1_0_1_EC_30_36_CE40000_0_0_0.png" group-title="Thể Thao", Sport TV+
+http://nadtv.xyz:80/live/Zfx4BNZ9P7/uvSfiReE0W/61540.ts?play_token=YAemMNMi08:1680249760:2281
+
+#EXTINF:-1 tvg-logo="http://x.pure-redirect.com/hispasat/1_0_1_579_68_53_CE40000_0_0_0.png" group-title="Thể Thao", Sport TV1
+http://nadtv.xyz:80/live/Zfx4BNZ9P7/uvSfiReE0W/61534.ts?play_token=YAemMNMi08:1680249760:2281
+
+#EXTINF:-1 tvg-logo="http://x.pure-redirect.com/hispasat/1_0_1_57A_68_53_CE40000_0_0_0.png" group-title="Thể Thao", Sport TV2
+http://nadtv.xyz:80/live/Zfx4BNZ9P7/uvSfiReE0W/61535.ts?play_token=YAemMNMi08:1680249760:2281
+
+#EXTINF:-1 tvg-logo="http://x.pure-redirect.com/hispasat/1_0_1_57B_68_53_CE40000_0_0_0.png" group-title="Thể Thao", Sport TV3
+http://nadtv.xyz:80/live/Zfx4BNZ9P7/uvSfiReE0W/61536.ts?play_token=YAemMNMi08:1680249760:2281
+
+#EXTINF:-1 tvg-logo="http://x.pure-redirect.com/hispasat/1_0_1_81_65_53_CE40000_0_0_0.png" group-title="Thể Thao", Sport TV4
+http://nadtv.xyz:80/live/Zfx4BNZ9P7/uvSfiReE0W/61538.ts?play_token=YAemMNMi08:1680249760:2281
+
+#EXTINF:-1 tvg-logo="http://x.pure-redirect.com/hispasat/1_0_1_1398_30_36_CE40000_0_0_0.png" group-title="Thể Thao",SPORT TV5 
+http://nadtv.xyz:80/live/Zfx4BNZ9P7/uvSfiReE0W/61539.ts?play_token=YAemMNMi08:1680249760:2281
+
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-super-sport-4-691.png" group-title="Thể Thao", SUPER SPORT 1
+#http://tesslatv.net:80/Gladio87935/R1ujHhMxdv/458851.ts
+
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-super-sport-4-692.png" group-title="Thể Thao", SUPER SPORT 2
+#http://tesslatv.net:80/Gladio87935/R1ujHhMxdv/177133.ts
+
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-super-sport-4-693.png" group-title="Thể Thao", SUPER SPORT 3
+#http://tesslatv.net:80/Gladio87935/R1ujHhMxdv/458852.ts
+
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-super-sport-4-694.png" group-title="Thể Thao", SUPER SPORT 4
+#http://tesslatv.net:80/Gladio87935/R1ujHhMxdv/177135.ts
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Logo_RMC_Sport_1_2018.svg/2560px-Logo_RMC_Sport_1_2018.svg.png" group-title="Thể Thao", RMC SPORT 1 HD
+http://nadtv.xyz:80/live/Zfx4BNZ9P7/uvSfiReE0W/2725.ts?play_token=YAemMNMi08:1680249760:2281
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Logo_RMC_Sport_1_2018.svg/2560px-Logo_RMC_Sport_1_2018.svg.png" group-title="Thể Thao", RMC SPORT 1 FHD
+http://nadtv.xyz:80/live/Zfx4BNZ9P7/uvSfiReE0W/63608.ts?play_token=YAemMNMi08:1680249760:2281
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_RMC_Sport_2_2018.svg/2560px-Logo_RMC_Sport_2_2018.svg.png" group-title="Thể Thao", RMC SPORT 2 HD
+http://nadtv.xyz:80/live/Zfx4BNZ9P7/uvSfiReE0W/2722.ts?play_token=YAemMNMi08:1680249760:2281
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Logo_RMC_Sport_2_2018.svg/2560px-Logo_RMC_Sport_2_2018.svg.png" group-title="Thể Thao", RMC SPORT 2 FHD
+http://nadtv.xyz:80/live/Zfx4BNZ9P7/uvSfiReE0W/57033.ts?play_token=YAemMNMi08:1680249760:2281
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Logo_RMC_Sport_3_2018.svg/1280px-Logo_RMC_Sport_3_2018.svg.png" group-title="Thể Thao", RMC SPORT 3 HD
+http://nadtv.xyz:80/live/Zfx4BNZ9P7/uvSfiReE0W/2719.ts?play_token=YAemMNMi08:1680249760:2281
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Logo_RMC_Sport_3_2018.svg/1280px-Logo_RMC_Sport_3_2018.svg.png" group-title="Thể Thao", RMC SPORT 3 FHD
+http://nadtv.xyz:80/live/Zfx4BNZ9P7/uvSfiReE0W/57034.ts?play_token=YAemMNMi08:1680249760:2281
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/66/Logo_RMC_Sport_4_2018.svg/1280px-Logo_RMC_Sport_4_2018.svg.png" group-title="Thể Thao", RMC SPORT 4 HD
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/66/Logo_RMC_Sport_4_2018.svg/1280px-Logo_RMC_Sport_4_2018.svg.png" group-title="Thể Thao", RMC SPORT 4 FHD
+http://nadtv.xyz:80/live/Zfx4BNZ9P7/uvSfiReE0W/2715.ts?play_token=YAemMNMi08:1680249760:2281
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/RMC_SPORT_LIVE_5_2018_OFFICIEL.png/revision/latest?cb=20191103084952" group-title="Thể Thao", RMC SPORT 5 FHD
+#http://tesslatv.net:80/Gladio87935/R1ujHhMxdv/189159.ts
+
+#EXTINF:-1 tvg-logo="https://www.edigitalagency.com.au/wp-content/uploads/Real-Madrid-F.C.-logo-png-large.png" group-title="Thể Thao", REAL MADRID TV
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1545
+
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/1014/168/png-transparent-prosiebensat-1-media-story-house-productions-germany-television-others-television-logo-sphere-thumbnail.png" group-title="Thể Thao", Sat1
+https://s6.hopslan.com/sat1q1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-1-russia.png" group-title="Thể Thao", MART 1
+http://sonic-eg.com:80/12355/12355/131412
+
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-2-russia.png" group-title="Thể Thao", MART 2
+http://sonic-eg.com:80/12355/12355/131413
+
+#EXTINF:-1 tvg-logo="https://cdn.livesoccertv.com/images/channels/thumbnails/match-tv-football-3-russia.png" group-title="Thể Thao", MART 3
+http://sonic-eg.com:80/12355/12355/131414
+
+#EXTINF:-1 tvg-logo="http://sawaiptv.vip:80/images/06c62046c1fb6cfd8f1d903623e6663c.png" group-title="Thể Thao", Match! Futbol 1 HD
+http://sonic-eg.com:80/12355/12355/131416
+
+#EXTINF:-1 tvg-logo="http://sawaiptv.vip:80/images/8e7c9df6c0dc4f85602455c0e043a651.png" group-title="Thể Thao", Match! Futbol 2 HD
+http://sonic-eg.com:80/12355/12355/131415
+
+#EXTINF:-1 tvg-logo="http://sawaiptv.vip:80/images/4e8152b2a4b5666e5dcac7ad024f3837.jpg" group-title="Thể Thao", Match! Futbol 3 HD
+http://sonic-eg.com:80/12355/12355/131417
+
+#EXTINF:-1 tvg-logo="http://sawaiptv.vip:80/images/d4ab935f71c5c87c8f36d16a302bd156.jpg" group-title="Thể Thao", Match Arena HD
+http://sonic-eg.com:80/12355/12355/131418
+
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao", Match Premiere HD
+http://sonic-eg.com:80/12355/12355/131419
+
+#EXTINF:-1 tvg-logo="http://sawaiptv.vip:80/images/f30c0eecb2d329d3965360ea695864ab.jpg" group-title="Thể Thao", Match Nash Sport
+http://sonic-eg.com:80/12355/12355/131420
+
+#EXTINF:-1 tvg-logo="http://sawaiptv.vip:80/images/d6fdfad369f1e3160251ad62d6585742.png" group-title="Thể Thao", Match! Igra HD
+http://sonic-eg.com:80/12355/12355/131421
+
+#EXTINF:-1 tvg-logo="https://i0.wp.com/gdplayer.tv/assets/img/logo/match-tv.png" group-title="Thể Thao", MATCH_HD
+http://sonic-eg.com:80/12355/12355/131422
+
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/631-dbg-e.png" group-title="Thể Thao", Now HK Now Sports 1
+http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/597128
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/632-dbg-e.png" group-title="Thể Thao", Now HK Now Sports 2
+http://line.liontv.site:80/play/live.php?mac=00:1a:79:1c:09:36&stream=1110616&extension=ts
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/633-dbg-e.png" group-title="Thể Thao", Now HK Now Sports 3
+http://line.liontv.site:80/play/live.php?mac=00:1a:79:1c:09:36&stream=1110617&extension=ts
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/634-dbg-e.png" group-title="Thể Thao", Now HK Now Sports 4
+http://line.liontv.site:80/play/live.php?mac=00:1a:79:1c:09:36&stream=1110618&extension=ts
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/634-dbg-e.png" group-title="Thể Thao", Now HK Now Sports1 4K
+http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/597130
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/635-dbg-e.png" group-title="Thể Thao", Now HK Now Sports 5
+http://line.liontv.site:80/play/live.php?mac=00:1a:79:1c:09:36&stream=1110619&extension=ts
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/636-dbg-e.png" group-title="Thể Thao", Now HK Now Sports 6
+http://line.liontv.site:80/play/live.php?mac=00:1a:79:1c:09:36&stream=1110620&extension=ts
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/637-dbg-e.png" group-title="Thể Thao", Now HK Now Sports 7
+http://line.liontv.site:80/play/live.php?mac=00:1a:79:1c:09:36&stream=1110621&extension=ts
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/630-dbg-e.png" group-title="Thể Thao", Now HK Now668
+http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/597129
+
+
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-c.png" group-title="Thể Thao",  Premier Sports 1HD
+http://line.liontv.site:80/play/live.php?mac=00:1a:79:1c:09:36&stream=1110622&extension=ts
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/621-dbg-e.png" group-title="Thể Thao", Premier Sports 1
+http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/597121
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/622-dbg-e.png" group-title="Thể Thao", Premier Sports 2
+http://line.liontv.site:80/play/live.php?mac=00:1a:79:1c:09:36&stream=1110616&extension=ts
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/623-dbg-e.png" group-title="Thể Thao", Premier Sports 3
+
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/624-dbg-e.png" group-title="Thể Thao", Premier Sports 4
+
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/625-dbg-e.png" group-title="Thể Thao", Premier Sports 5
+
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/626-dbg-e.png" group-title="Thể Thao", Premier Sports 6
+
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/627-dbg-e.png" group-title="Thể Thao", Premier Sports 7
+
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/media/logo/628-dbg-e.png" group-title="Thể Thao", Premier Sports 8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Diema_Sport_HD_logo.png" group-title="Thể Thao", Diema Sport
+http://204.12.247.162:8080/premium465/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/47/DS2_logo.png" group-title="Thể Thao", Diema Sport 2
+http://204.12.247.162:8080/premium466/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/Diema-sport-3-hd-logo-black.png/revision/latest/scale-to-width-down/1200?cb=20210701075906" group-title="Thể Thao", Diema Sport 3
+http://204.12.247.162:8080/premium467/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 1 FHD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1500.png" group-title="Thể Thao",|PT| ELEVEN SPORTS 1 FHD
+http://nadtv.xyz:80/live/Zfx4BNZ9P7/uvSfiReE0W/61542.ts?play_token=YAemMNMi08:1680249760:2281
+
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1500.png" group-title="Thể Thao",ELEVEN SPORTS 1
+https://raw.githubusercontent.com/adis0308/gdpntn/master/ele1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1500.png" group-title="Thể Thao",ELEVEN SPORTS1
+https://raw.githubusercontent.com/adis0308/gdpntn/master/elesp1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 2 FHD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1501.png" group-title="Thể Thao",|PT| ELEVEN SPORTS 2 FHD
+http://nadtv.xyz:80/live/Zfx4BNZ9P7/uvSfiReE0W/61543.ts?play_token=YAemMNMi08:1680249760:2281
+
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1501.png" group-title="Thể Thao",ELEVEN SPORTS 2
+https://raw.githubusercontent.com/adis0308/gdpntn/master/ele2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1501.png" group-title="Thể Thao",ELEVEN SPORTS
+https://raw.githubusercontent.com/adis0308/gdpntn/master/elesp2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 3 SD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1502.png" group-title="Thể Thao",|PT| ELEVEN SPORTS 3 SD
+#http://nadtv.xyz:80/live/Zfx4BNZ9P7/uvSfiReE0W/61544.ts?play_token=YAemMNMi08:1680249760:2281
+
+#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 3 FHD" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1502.png" group-title="Thể Thao",|PT| ELEVEN SPORTS 3 FHD
+https://raw.githubusercontent.com/adis0308/gdpntn/master/elesp3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3" tvg-logo="https://img2.sport-tv-guide.live/images/stations/a1502.png" group-title="Thể Thao",ELEVEN SPORTS 3
+https://raw.githubusercontent.com/adis0308/gdpntn/master/ele3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 4 FHD" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-5-pt-1557.png" group-title="Thể Thao",|PT| ELEVEN SPORTS 4 FHD
+http://nadtv.xyz:80/live/Zfx4BNZ9P7/uvSfiReE0W/61546.ts?play_token=YAemMNMi08:1680249760:2281
+
+#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 5 FHD" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-5-pt-1558.png" group-title="Thể Thao",|PT| ELEVEN SPORTS 5 FHD
+http://nadtv.xyz:80/live/Zfx4BNZ9P7/uvSfiReE0W/61547.ts?play_token=YAemMNMi08:1680249760:2281
+
+#EXTINF:-1 tvg-id="" tvg-name="|PT| ELEVEN SPORTS 6 FHD" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-eleven-sports-5-pt-1559.png" group-title="Thể Thao",|PT| ELEVEN SPORTS 6 FHD
+http://nadtv.xyz:80/live/Zfx4BNZ9P7/uvSfiReE0W/61548.ts?play_token=YAemMNMi08:1680249760:2281
+
+
+
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png" group-title="Thể Thao", Sky Sport 1 HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/73125
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_2_logo_stack_rgb.png" group-title="Thể Thao", Sky Sport 2 HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/73126
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png" group-title="Thể Thao", Sky Sport 3 HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/73127
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_4_logo_stack_rgb.png" group-title="Thể Thao", Sky Sport 4 HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/73128
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_5_logo_stack_rgb.png" group-title="Thể Thao", Sky Sport 5 HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/73129
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_6_logo_stack_rgb.png" group-title="Thể Thao", Sky Sport 6 HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/73130
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_7_logo_stack_rgb.png" group-title="Thể Thao", Sky Sport 7 HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/73131
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_8_logo_stack_rgb.png" group-title="Thể Thao", Sky Sport 8 HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/73132
+#EXTINF:-1 tvg-logo="https://static.sky.co.nz/sky/channel-logos/051_sky_sport_9_logo_stack_rgb.png" group-title="Thể Thao", Sky Sport 9 HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/73133
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/gdplayer.tv/assets/img/logo/tsn1.png" group-title="Thể Thao", TSN1
+#http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/915
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/gdplayer.tv/assets/img/logo/tsn2.png" group-title="Thể Thao", TSN2
+#http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/916
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/gdplayer.tv/assets/img/logo/tsn3.png" group-title="Thể Thao", TSN3
+#http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/917
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/gdplayer.tv/assets/img/logo/tsn4.png" group-title="Thể Thao", TSN4
+#http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/918
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/gdplayer.tv/assets/img/logo/tsn5.png" group-title="Thể Thao", TSN5
+#http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/919
+
+#EXTINF:-1 tvg-logo="https://www.jsports.co.jp/img/icon/ch1.png" group-title="Thể Thao", JSPORTS 1
+http://redlabmcdn.s.llnwi.net/nv02/bs15hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.jsports.co.jp/img/icon/ch2.png" group-title="Thể Thao", JSPORTS 2
+http://redlabmcdn.s.llnwi.net/nv02/bs11hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.jsports.co.jp/img/icon/ch3.png" group-title="Thể Thao", JSPORTS 3
+http://redlabmcdn.s.llnwi.net/nv02/bs12hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.jsports.co.jp/img/icon/ch4.png" group-title="Thể Thao", JSPORTS 4
+http://redlabmcdn.s.llnwi.net/nv02/bs01hd/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e7.pngegg.com/pngimages/579/821/png-clipart-qatar-stars-league-al-kass-international-cup-2015-al-kass-sports-channels-international-champions-cup-doha-football-television-text.png" group-title="Thể Thao",Alkass 1
+#http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/670
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e7.pngegg.com/pngimages/579/821/png-clipart-qatar-stars-league-al-kass-international-cup-2015-al-kass-sports-channels-international-champions-cup-doha-football-television-text.png" group-title="Thể Thao", Alkass 2
+#http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/671
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e7.pngegg.com/pngimages/579/821/png-clipart-qatar-stars-league-al-kass-international-cup-2015-al-kass-sports-channels-international-champions-cup-doha-football-television-text.png" group-title="Thể Thao", Alkass 3
+#http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/672
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://e7.pngegg.com/pngimages/579/821/png-clipart-qatar-stars-league-al-kass-international-cup-2015-al-kass-sports-channels-international-champions-cup-doha-football-television-text.png" group-title="Thể Thao", Alkass 4
+#http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/673
+
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Arena_Sport_1.png" group-title="Thể Thao", Arena Sport 1 
+#http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/679
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.donasport.com/slike/arena-sport-1-premium.jpg" group-title="Thể Thao", Arena Sport 1 premium
+https://entahlah.gdplayer.to/playlist/VlQyNGhvZ3lVQmxqNjYzeUtuOE5RRDh3ZVRjUG8weE1DR2FyVkFMSFE0R1JYRzRSbVlSY2NOQ0d3STJsTGppNjM5MkFuRmF5RjdDZDNxRWRHNjgxMXc9PQ,,/master.m3u8?token=NmozYno0NFV5Q3RGYnNhT0MxdkRrMnBiTDFBSHpGTDNXWjVVQW80djdUK1l6SXZNaTI1QzFoVm9mMDNXdEJxSUF3MEY3NXpFZUdNd3ZmNWxxRzVlUmc9PQ,,
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Arena_Sport_1.png" group-title="Thể Thao", Arena Sport 1HD
+https://raw.githubusercontent.com/adis0308/gdpntn/master/arns1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Arena_Sport_2.png" group-title="Thể Thao", Arena Sport 2 
+#http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/675
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Arena_Sport_2.png" group-title="Thể Thao", Arena Sport 2HD
+https://raw.githubusercontent.com/adis0308/gdpntn/master/arns2.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.donasport.com/slike/arena-sport-2-premium.jpg" group-title="Thể Thao", Arena Sport 2 premium
+https://duit.gdplayer.to/playlist/VWRoa25TRUJZdWxCODRFcGZDWVRXUjlBUThzSy9GZFhQVXNCWWdPcW5ZVGViWjBYWEJJd1VYSWtpeHFyaHlFMnBpM04zNUE5T1dobzRuQVcxS0VhZUE9PQ,,/master.m3u8?token=NUlIbmRNRExMdFlkcWg0L1daakpkTDdabnVJdEQzdkZkbFBBMDFTOThrSEdMcGloWEpvdWJMWmJvSVVaNVVsd3NKNU1vdEZ4QzN2V1R3S0l0TzdhYmc9PQ,,
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Arena_Sport_3.png" group-title="Thể Thao", Arena Sport 3 
+#http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/676
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Arena_Sport_3.png" group-title="Thể Thao", Arena Sport 3HD
+https://raw.githubusercontent.com/adis0308/gdpntn/master/arns3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Arena_Sport_4.png" group-title="Thể Thao", ,Arena Sport 4
+#http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/677
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Arena_Sport_4.png" group-title="Thể Thao", ,Arena Sport 4HD
+https://raw.githubusercontent.com/adis0308/gdpntn/master/arns4.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.thesportsdb.com/images/media/tvlogo/Arena_Sport_5.png" group-title="Thể Thao", Arena Sport 5 
+http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/678
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="Thể Thao", BEIN GLOBAL VIP
+http://w.bs-share.com:8000/CRAZY/1166554422hjyas/393738
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="Thể Thao", BEIN SPORTS NEWS VIP
+http://w.bs-share.com:8000/CRAZY/1166554422hjyas/393739
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c5/Logo_beIN_SPORTS_1.png" group-title="Thể Thao", BEIN SPORTS 1 HD
+http://restream.my-iptv.net:8080/Kyriama/j4Knt3wW/2615
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" group-title="Thể Thao", BEIN SPORTS 2 HD
+http://restream.my-iptv.net:8080/Kyriama/j4Knt3wW/2616
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" group-title="Thể Thao", BEIN SPORTS 3 HD
+http://restream.my-iptv.net:8080/Kyriama/j4Knt3wW/2618
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png" group-title="Thể Thao", BEIN MAX 4 HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/6019
+
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hd-bein-sports-hd-logo-png-116408184160mybrquevy.png" group-title="Thể Thao", BEIN MAX 5
+
+
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hd-bein-sports-hd-logo-png-116408184160mybrquevy.png" group-title="Thể Thao", BEIN MAX 5 HD
+http://ip.xtremetv.eu:8000/megaott1000/gtSwbCLSSS/81543
+
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hd-bein-sports-hd-logo-png-116408184160mybrquevy.png" group-title="Thể Thao", BEIN MAX 6 HD
+http://restream.my-iptv.net:8080/Kyriama/j4Knt3wW/1147
+
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F207%2Fbein-sports-hd-1.png" group-title="Thể Thao", BEIN MAX 7 HD
+http://restream.my-iptv.net:8080/Kyriama/j4Knt3wW/1148
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/42/e5/54/42e554c2dd2c40b649cddd0ccd6724a6.png" group-title="Thể Thao", BEIN MAX 8 HD
+http://restream.my-iptv.net:8080/Kyriama/j4Knt3wW/1149
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/42/64/42/42644282ab24398b2823477e8165b9b3.png" group-title="Thể Thao", BEIN MAX 9 HD
+http://restream.my-iptv.net:8080/Kyriama/j4Knt3wW/1150
+
+#EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hd-bein-sports-hd-logo-png-116408184160mybrquevy.png" group-title="Thể Thao", BEIN MAX 10 HD
+http://restream.my-iptv.net:8080/Kyriama/j4Knt3wW/1144
+
+#EXTINF:-1 tvg-logo="https://www.aflam4you.co/uploads/thumbs/445-social2.jpg" group-title="Thể Thao", ON SPORTS 1
+http://w.bs-share.com:8000/CRAZY/1166554422hjyas/245623
+
+#EXTINF:-1 tvg-logo="https://podegypt.com/wp-content/uploads/2021/08/Time-sport-2.png" group-title="Thể Thao", ON SPORTS 2
+http://w.bs-share.com:8000/CRAZY/1166554422hjyas/245624
+
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F877%2Fon-time-sports-2.png" group-title="Thể Thao", ON SPORTS 3
+http://w.bs-share.com:8000/CRAZY/1166554422hjyas/422866
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/2560px-TNT_Sports_2021_logo.svg.png" group-title="Thể Thao", TNT Sport
+#http://fxorexworld.com:8080/hId9wLqgI6/BaG5igxCYD/694
+
+#EXTINF:-1 tvg-logo="https://tvshqipon.com/wp-content/uploads/2019/06/Tring-Sport-1-Live.png" group-title="Thể Thao", Tring Sport1
+http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/1101
+
+#EXTINF:-1 tvg-logo="https://www.tvshqipon.com/wp-content/uploads/2019/06/TringSport-2-Live.png" group-title="Thể Thao", Tring Sport2
+http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/1102
+
+#EXTINF:-1 tvg-logo="https://tvshqipon.com/wp-content/uploads/2019/06/Tring-Sport-3-Live.png" group-title="Thể Thao", Tring Sport3
+http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/1103
+
+#EXTINF:-1 tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F848%2Ftring-sport-4-1.png" group-title="Thể Thao", Tring Sport4
+http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/1104
+
+#EXTINF:-1 tvg-logo="https://e1.pngegg.com/pngimages/72/944/png-clipart-logo-du-real-madrid-tvp-sport-real-madrid-cf-television-telewizja-polska-tvp1-sports-chaine-de-television-thumbnail.png" group-title="Thể Thao", TVP Sport
+https://entahlah.gdplayer.to/playlist/U285UlZvdnh0RlZzNWlZSlR0d0J1MkVLUkJ1RHV0R2ZGNWxqUDNWZHZ2MjIxQTg5Mk8wbUhidXY5RVRTaUUrL25ORzd4anU4OUU4K1lZanNuU1BVRlE9PQ,,/master.m3u8?token=WEpnT0tDTE5Pd1RMSlVONFFXbm1FdXphMzRlQ244bjk5NzlSdjNQdUNPNFhFQzhZRXpyVFNFand2SjRNU2ZhNUc4Z01JbEhjM3M5ejc1NStlQ3VxS3c9PQ
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/441/186/png-transparent-television-channel-sawa-media-high-definition-television-docubox-hd-fight-miscellaneous-television-text.png" group-title="Thể Thao", Fight Box
+http://iptv.prosto.tv:7000/ch118/tracks-v1a1/mono.m3u8?ip=42.114.84.199&id=0&live=1&e=1683449448&st=P5QgoHqwxPqt_HQxujYepw
+
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/images/ott_channels/logos/accdn-logo.png" group-title="Thể Thao", ACCDN
+https://a.jsrdn.com/broadcast/542cb2ce3c/+0000/high/c.m3u8
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/gdplayer.tv/assets/img/logo/sky-sports-action.png" group-title="Thể Thao", Sky Sports Action
+https://budak.gdplayer.to/playlist/Zjg0eTZWdTlMZy9QRnc1T0lqM24zNHA2TjBsVXdoelFKTVpaMGtWUHk0NktQMWY3Ky9kRy90d3BiMDNaYW5saHNxSldJVENKVXRjbWpsQTVoVm1wM2c9PQ,,/master.m3u8?token=SVhaMWdJU0dENm0vWDVtN3RTVjlVSWlvTmNHK0VmV0tudUthb2FwS0NpOHk2aGh6VzVnSmZFdWhkTjYzUERGcHZoY1ZEQTFsWVpuQnhNdm5pRjYxVUE9PQ,,
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/gdplayer.tv/assets/img/logo/sky-sports-arena.png" group-title="Thể Thao", Sky Sports Arena 
+http://204.12.247.162:8080/premium36/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/gdplayer.tv/assets/img/logo/sky-sports-cricket.png" group-title="Thể Thao", Sky Sports Cricket
+https://budak.gdplayer.to/playlist/cWFpTkFGK3VyNW04L3p6UkJGZFZPSFh3cjNtaTRRNW9QWTI1VzFaZkc3RFNxeDdYZFVJQTh1L1dRSTQ3K09OM2pKUmQybCs4YlpyS3pMbVpCYWpuOHc9PQ,,/master.m3u8?token=SVhaMWdJU0dENm0vWDVtN3RTVjlVSWlvTmNHK0VmV0tudUthb2FwS0NpOHk2aGh6VzVnSmZFdWhkTjYzUERGcHZoY1ZEQTFsWVpuQnhNdm5pRjYxVUE9PQ,,
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/gdplayer.tv/assets/img/logo/sky-sports-f1.png" group-title="Thể Thao", Sky Sports F1
+https://duit.gdplayer.to/playlist/bzhuTzNOdzBMZEJNTzA2ekVDT2JYOEhpVG9CN0RadTRpanJ0R1hqYVNuL1o2QndEcStiTjM1LytGdVBtTW9zOUdpWU84WTdHeUJMOUxpVXJrVDUwR2c9PQ,,/master.m3u8?token=cWYrcEFZOFdINGgyQklBcUwyWFRwTUJ4Zk1zTlhqdUJKNWhlN2VWdy9BbWcrS3FsV3FkV2hkYmJFNk56VHRudHlQMjRPT2VDWjg3K2RkY1RVY25HUEE9PQ,,
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/gdplayer.tv/assets/img/logo/sky-sports-football.png" group-title="Thể Thao", Sky Sports Football
+http://204.12.247.162:8080/premium35/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/gdplayer.tv/assets/img/logo/sky-sports-main-event.png" group-title="Thể Thao", Sky Sports Main
+https://cari.gdplayer.to/playlist/R0lRZjJGNlhMbnQzRm5EbmFiYktLME4vaVpLcWZ4N3QwRU81ZHY2dXk5UHBWWGk0ZVhBYm94U3lhYXdGOHpUWmtiYWNHTG1DOWVXWWJ5Z3pwSkZXUWc9PQ,,/master.m3u8?token=clhUckJaQ3ZRWXh6d0ZUQ2p2WE44aE5qeHo0eFpTaUdid2xqdUQ3SE9XQjdOcFB4eWNQQ0lTcjhuempyTFQ3OFRhNDliK0tGUGFCaWprZWI0ZnZsQmc9PQ,,
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/gdplayer.tv/assets/img/logo/sky-sports-news.png" group-title="Thể Thao", Sky Sports News
+https://budak.gdplayer.to/playlist/cWdrWnNoTG1FYmRIUTFiVGFKUUxqczJORENrSzc1akN5RjFydEZGMkxCd2JNQnk5dFJIUllBWU9JMjk5eStQTDRLYm9FT2gvOUdRdVZneEhKZkpSRUE9PQ,,/master.m3u8?token=SVhaMWdJU0dENm0vWDVtN3RTVjlVSWlvTmNHK0VmV0tudUthb2FwS0NpOHk2aGh6VzVnSmZFdWhkTjYzUERGcHZoY1ZEQTFsWVpuQnhNdm5pRjYxVUE9PQ,,
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/gdplayer.tv/assets/img/logo/sky-sports-premier-league.png" group-title="Thể Thao", Sky Sports Premier League
+https://duit.gdplayer.to/playlist/Qzk2NzBEV202U1UrY3Y2Yy9FUmxBZTRsUkptWUNKRGtwOWtpS1NnWW85dlY0K3F0dXNwQmhwWGt2RWhBQ0RyRnJzdDBIaWZyM21SOHc5Zk1TazlqVlE9PQ,,/master.m3u8?token=cWYrcEFZOFdINGgyQklBcUwyWFRwTUJ4Zk1zTlhqdUJKNWhlN2VWdy9BbWcrS3FsV3FkV2hkYmJFNk56VHRudHlQMjRPT2VDWjg3K2RkY1RVY25HUEE9PQ,,
+
+#EXTINF:-1 tvg-logo="https://i1.wp.com/gdplayer.tv/assets/img/logo/sky-sports-racing.png" group-title="Thể Thao", Sky Sports Racing
+https://budak.gdplayer.to/playlist/Q0pHaWExOU5sTVg0UEpqeEFXOThJRE1iZ3ZrRWIzTzZXaEFKL1J3VmxaTTQ4TzRrR1FrcEMyOTZBMldhS21tZnNVenJLLytvcWJWbnBRK3haUHJ0aFE9PQ,,/master.m3u8?token=SVhaMWdJU0dENm0vWDVtN3RTVjlVSWlvTmNHK0VmV0tudUthb2FwS0NpOHk2aGh6VzVnSmZFdWhkTjYzUERGcHZoY1ZEQTFsWVpuQnhNdm5pRjYxVUE9PQ,,
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cd/BTSPORT_1_BLACK_RGB.png" group-title="Thể Thao", BT SPORTS 1
+https://duit.gdplayer.to/playlist/bk1makt6N2RHVVluQU8vMkZ1VGoybDJsN1FTZmUvZldUM09YbFl6QWp0U093QUV1V0JFdWJ3d3ZHaUdCZjVHTkZYY0VDL2ZmQUNFdUJJVThRQkowaHc9PQ,,/master.m3u8?token=NEJtd0szWDBHaHI3NGpEeFJXbktFcG1ITTJ6RDRlWEdrOWpkNnBOUXhaL0wwNURHMWIrbzRQV0ZjdHd2eitQanB1WG5sTU82SU1tSDZlazMyQW5YOGc9PQ,,
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/BTSPORT_2_BLACK_RGB.png" group-title="Thể Thao", BT SPORTS 2
+https://cari.gdplayer.to/playlist/SEpVeExaZ09RZktrb2RUYndnRlRBRkQxdzFwSEtEeU9ocFl6RnE2VklISk16cHY2RVhUb3JoUzVZN3ZiZFhDRHpoUmJ3WXByS2VxcFFrUC9YZ0JvYUE9PQ,,/master.m3u8?token=clhUckJaQ3ZRWXh6d0ZUQ2p2WE44aE5qeHo0eFpTaUdid2xqdUQ3SE9XQjdOcFB4eWNQQ0lTcjhuempyTFQ3OFRhNDliK0tGUGFCaWprZWI0ZnZsQmc9PQ,,
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/BTSPORT_3_BLACK_RGB.png" group-title="Thể Thao", BT SPORTS 3
+https://cari.gdplayer.to/playlist/RmJYYVJ0eWtreXdTZWhSMndkQ2dpcHZrd0RWblZRY2ppWVFHanZ2T09CV1hoMmhBaWxQdU1ORWwrUW5ua2xYdVRtTHdtRy83bDByNTFXbFFnWWF2bUE9PQ,,/master.m3u8?token=clhUckJaQ3ZRWXh6d0ZUQ2p2WE44aE5qeHo0eFpTaUdid2xqdUQ3SE9XQjdOcFB4eWNQQ0lTcjhuempyTFQ3OFRhNDliK0tGUGFCaWprZWI0ZnZsQmc9PQ,,
+
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/static.media.info/l/o/1/1491.1659387051.png" group-title="Thể Thao", BT SPORTS 4
+https://duit.gdplayer.to/playlist/WThZNkhzZi9XdlJCVE43ZnNMUzNuTUtET0puWGhrR3o0R1ZoRE1hUFd2bFRtVEhjSkowSGVOTWdpOWsvbjRuQmR0bHRVb2NDSHY5bGVlS3hGTnhwVFE9PQ,,/master.m3u8?token=NEJtd0szWDBHaHI3NGpEeFJXbktFcG1ITTJ6RDRlWEdrOWpkNnBOUXhaL0wwNURHMWIrbzRQV0ZjdHd2eitQanB1WG5sTU82SU1tSDZlazMyQW5YOGc9PQ,,
+
+#EXTINF:-1 tvg-logo="https://cdn.tvmnews.mt/wp-content/uploads/2021/09/18134847/TVM-SPORT.png" group-title="Thể Thao", TVM-SPORT
+https://dist7.tvmi.mt/eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOjg5MDcwMTksImF1ZCI6IjExMy4yMy44Ni4xOSIsImV4cCI6MTY4MTA5NzA0OX0.aPV-75FnOK8eZa-lg5cYJ3Mnni-VJphlOPQqPNmwgWU/live/4/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/DIGI_SPORT_1.png" group-title="Thể Thao", Digi Sport 1 FHD
+http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/149962
+
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/DIGI_SPORT_1.png" group-title="Thể Thao", Digi Sport 1
+http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/5321
+
+#EXTINF:-1 tvg-logo="https://thumbnail.imgbin.com/20/6/3/imgbin-digi-sport-3-hd-sport1-digi-tv-sport1-RPbNx0zmeAk0eMB7BUfxrJhND_t.jpg" group-title="Thể Thao", Digi Sport 2 FHD
+http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/14995
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Digi_sport3_hu.png/1200px-Digi_sport3_hu.png" group-title="Thể Thao", Digi Sport 3 FHD
+http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/14994
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Digi_sport3_hu.png/1200px-Digi_sport3_hu.png" group-title="Thể Thao", Digi Sport 3
+http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/5319
+
+#EXTINF:-1 tvg-logo="https://ewsat.com/img/DIGI_SPORT_4.png" group-title="Thể Thao", Digi Sport 4
+http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/5318
+
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao", ORANGE SPORT 1
+http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/128252
+
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao", ORANGE SPORT 1 FHD
+http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/53855
+
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao", ORANGE SPORT 2HD
+http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/12920
+
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao", ORANGE SPORT 3 FHD
+http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/12979
+
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao", ORANGE SPORT 4 FHD
+http://mytv.fun:80/pacha-man1/Hd2Irka94mdqE478/12042
+
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao", 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Thể Thao", CANAL+ SPORT 1
+http://line.liontv.site:80/play/live.php?mac=00:1a:79:1c:09:36&stream=880461&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Thể Thao", CANAL+ SPORT 2
+http://line.liontv.site:80/play/live.php?mac=00:1a:79:1c:09:36&stream=880460&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Thể Thao", CANAL+ SPORT 3
+http://line.liontv.site:80/play/live.php?mac=00:1a:79:1c:09:36&stream=880459&extension=ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1a/Canal%2B_Sport_2015.png" group-title="Thể Thao", CANAL+ SPORT 4
+http://line.liontv.site:80/play/live.php?mac=00:1a:79:1c:09:36&stream=880458&extension=ts
+
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-k-sport-3-1855.png" group-title="Thể Thao",  K Sport 1 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/1092
+
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-k-sport-3-1856.png" group-title="Thể Thao",  K Sport 2 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/1093
+
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-k-sport-3-1857.png" group-title="Thể Thao",  K Sport 3 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/1151
+
+#EXTINF:-1 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-k-sport-3-1858.png" group-title="Thể Thao",  K Sport 4 4K+
+http://lionboxiptv.xyz:80/Knightstreams123/mxjjePk5Wj123/1094
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MY LIVE_Astro_SuperSport_Events_1_HD" tvg-logo="" group-title="Thể Thao",MY LIVE_Astro_SuperSport_Events_1_HD
+http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/527542
+#EXTINF:-1 tvg-id="" tvg-name="MY LIVE_Astro_SuperSport_Events_2_HD" tvg-logo="" group-title="Thể Thao",MY LIVE_Astro_SuperSport_Events_2_HD
+http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/527541
+#EXTINF:-1 tvg-id="" tvg-name="MY LIVE_Astro_SuperSport_Events_3_HD" tvg-logo="" group-title="Thể Thao",MY LIVE_Astro_SuperSport_Events_3_HD
+http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/527540
+#EXTINF:-1 tvg-id="" tvg-name="MY LIVE_Astro_SuperSport_Events_3_HD" tvg-logo="" group-title="Thể Thao",MY LIVE_Astro_SuperSport_Events_3_HD
+http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/601800
+#EXTINF:-1 tvg-id="" tvg-name="MY LIVE_Astro_SuperSport_Events_4_HD" tvg-logo="" group-title="Thể Thao",MY LIVE_Astro_SuperSport_Events_4_HD
+http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/527579
+#EXTINF:-1 tvg-id="" tvg-name="MY LIVE_Astro_SuperSport_Events_4_HD" tvg-logo="" group-title="Thể Thao",MY LIVE_Astro_SuperSport_Events_4_HD
+http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/601801
+#EXTINF:-1 tvg-id="" tvg-name="MY LIVE_Astro_SuperSport_Events_5_HD" tvg-logo="" group-title="Thể Thao",MY LIVE_Astro_SuperSport_Events_5_HD
+http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/527572
+#EXTINF:-1 tvg-id="" tvg-name="MY LIVE_Astro_SuperSport_Events_5_HD" tvg-logo="" group-title="Thể Thao",MY LIVE_Astro_SuperSport_Events_5_HD
+http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/601802
+#EXTINF:-1 tvg-id="" tvg-name="MY LIVE_Astro_SuperSport_Events_6_HD" tvg-logo="" group-title="Thể Thao",MY LIVE_Astro_SuperSport_Events_6_HD
+http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/527489
+#EXTINF:-1 tvg-id="" tvg-name="MY LIVE_Astro_SuperSport_Events_6_HD" tvg-logo="" group-title="Thể Thao",MY LIVE_Astro_SuperSport_Events_6_HD
+http://x.matrixstreamz.com:25461/CrAiG257/257BrAuT/601803
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao", Cosmote Sport 1 4K+
+http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/15275
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao", Cosmote Sport 2 4K+
+http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/15276
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao", Cosmote Sport 3 4K+
+http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/15277
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao", Cosmote Sport 4 4K+
+http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/15278
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao", Cosmote Sport 5 4K+
+http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/15279
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao", Cosmote Sport 6 4K+
+http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/15280
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao", Cosmote Sport 7 4K+
+http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/15282
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao", Cosmote Sport 8 4K+
+http://lionboxiptv.xyz:80/Newpro123@1/5Bdfgafag5987@1/15283
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao",LIGUE 1 HD
+https://live.eagleeye.capital:443/razkorazko/razkorazko/11537.ts
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao",LIGUE 1 4K
+https://live.eagleeye.capital:443/razkorazko/razkorazko/11538.ts
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao",LIGUE 2 HD
+https://live.eagleeye.capital:443/razkorazko/razkorazko/11539.ts
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao",LIGUE 2 4K
+https://live.eagleeye.capital:443/razkorazko/razkorazko/11540.ts
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao",LIGUE 3 HD
+https://live.eagleeye.capital:443/razkorazko/razkorazko/11541.ts
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao",LIGUE 3 4K
+https://live.eagleeye.capital:443/razkorazko/razkorazko/11542.ts
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao",LIGUE 4 HD
+https://live.eagleeye.capital:443/razkorazko/razkorazko/11543.ts
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao",LIGUE 4 4K
+https://live.eagleeye.capital:443/razkorazko/razkorazko/11544.ts
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao",LIGUE 5 HD
+https://live.eagleeye.capital:443/razkorazko/razkorazko/11545.ts
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao",LIGUE 5 4K
+https://live.eagleeye.capital:443/razkorazko/razkorazko/11546.ts
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao",LIGUE 6 HD
+https://live.eagleeye.capital:443/razkorazko/razkorazko/11547.ts
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao",LIGUE 6 4K
+https://live.eagleeye.capital:443/razkorazko/razkorazko/11548.ts
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao",LIGUE 7 HD
+https://live.eagleeye.capital:443/razkorazko/razkorazko/11549.ts
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao",LIGUE 7 4K
+https://live.eagleeye.capital:443/razkorazko/razkorazko/11550.ts
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao",LIGUE 8 HD
+https://live.eagleeye.capital:443/razkorazko/razkorazko/11551.ts
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao",LIGUE 8 4K
+https://live.eagleeye.capital:443/razkorazko/razkorazko/11552.ts
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao",LIGUE 9 HD+
+https://live.eagleeye.capital:443/razkorazko/razkorazko/11553.ts
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao",LIGUE 9 4K
+https://live.eagleeye.capital:443/razkorazko/razkorazko/11554.ts
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao",LIGUE 8 FHD
+https://live.eagleeye.capital:443/razkorazko/razkorazko/11555.ts
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao",LIGUE 7 FHD
+https://live.eagleeye.capital:443/razkorazko/razkorazko/11556.ts
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao",LIGUE 6 FHD
+https://live.eagleeye.capital:443/razkorazko/razkorazko/11557.ts
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao",LIGUE 5 FHD
+https://live.eagleeye.capital:443/razkorazko/razkorazko/11558.ts
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao",LIGUE 4 FHD
+https://live.eagleeye.capital:443/razkorazko/razkorazko/11559.ts
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao",LIGUE 3 FHD
+https://live.eagleeye.capital:443/razkorazko/razkorazko/11560.ts
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao",LIGUE 2  FHD
+https://live.eagleeye.capital:443/razkorazko/razkorazko/11561.ts
+#EXTINF:-1 tvg-logo="" group-title="Thể Thao",LIGUE 1 FHD
+https://live.eagleeye.capital:443/razkorazko/razkorazko/11562.ts 
